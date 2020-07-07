@@ -29,10 +29,10 @@ games. It aims to embrace the parts of the genre that work while also
 moving it forward. You'll need a GM and 3-5 players.
 
 You can view this playtest version as [a web
-page](http://http://www.latorra.org/beyond/),
-[PDF](../release/Beyond.pdf), or the [raw
-source](https://github.com/Sagelt/beyond/). You can send feedback to me
-[on twitter](https://twitter.com/olde_fortran) or by [filing an issue on
+page](http://www.latorra.org/beyond/), [PDF](/release/Beyond.pdf), or
+the [raw source](https://github.com/Sagelt/beyond/). You can send
+feedback to me [on twitter](https://twitter.com/olde_fortran) or by
+[filing an issue on
 GitHub](https://github.com/Sagelt/beyond/issues/new/choose).
 
 Oh, and the name Beyond is probably a placeholder. Or maybe not. Who
