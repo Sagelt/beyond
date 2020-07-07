@@ -67,7 +67,7 @@ assume this is Dungeon World except that…
 
 Each player chooses a playbook. The currently available playbooks are:
 
-* [The Wizard]
+* [The Wizard](#the-wizard)
 
 The GM provides a starting Goal for the party, then opens the adventure at a
 key moment in pursuing that goal.

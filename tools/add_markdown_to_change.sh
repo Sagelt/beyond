@@ -5,8 +5,7 @@ files_to_compile=`$rootdir/tools/get_files_to_compile.sh`
 
 pandoc \
   $files_to_compile \
-  --pdf-engine=xelatex \
-  -V 'mainfont:AveriaSerifLibre-Regular' \
-  -o $rootdir/release/Beyond.pdf
+  --atx-headers \
+  -o $rootdir/index.md
 
-git add $rootdir/release/Beyond.pdf
+git add $rootdir/index.md
