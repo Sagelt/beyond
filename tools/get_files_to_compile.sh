@@ -7,3 +7,6 @@ echo \
   $rootdir/text/wizard/wizard.md \
   $rootdir/text/wizard/spellbook.md \
   $rootdir/text/wizard/mystic_patron.md \
+  $rootdir/text/cleric/cleric.md \
+  $rootdir/text/cleric/divine-patronage.md \
+  
