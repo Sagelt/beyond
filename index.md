@@ -94,9 +94,10 @@ at a key moment in pursuing that goal.
 You have all the Adventurer Moves.
 
 Choose three class moves to start with from among your themes. Your
-themes are Towermage, Ritualist, and Witchblood. You must take the first
-move in each theme before taking any below it. Indicate your move by
-marking it (put an x: (x) to show you have the move).
+themes are [Towermage](#towermage-theme), [Ritualist](#ritualist-theme),
+and [Witchblood](#witchblood-theme). You must take the first move in
+each theme before taking any below it. Indicate your move by marking it
+(put an x: (x) to show you have the move).
 
 When you roll a 6-, mark one of the advancement boxes \[ \] below the
 move you rolled by adding an x (like this: \[x\]). When all the
