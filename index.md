@@ -24,9 +24,9 @@ facing those who would live off the work of others.
 
 ## A Fantasy Adventure Game
 
-Beyond is a fantasy adventure game drawing on a long lineage of similar
-games. It aims to embrace the parts of the genre that work while also
-moving it forward. You'll need a GM and 3-5 players.
+*Beyond* is a fantasy adventure game drawing on a long lineage of
+similar games. It aims to embrace the parts of the genre that work while
+also moving it forward. You'll need a GM and 3-5 players.
 
 You can view this playtest version as [a web
 page](http://www.latorra.org/beyond/), [PDF](/release/Beyond.pdf), or
@@ -35,15 +35,15 @@ feedback to me [on twitter](https://twitter.com/olde_fortran) or by
 [filing an issue on
 GitHub](https://github.com/Sagelt/beyond/issues/new/choose).
 
-Oh, and the name Beyond is probably a placeholder. Or maybe not. Who
+Oh, and the name *Beyond* is probably a placeholder. Or maybe not. Who
 knows.
 
 ## Quick Start Guide From Dungeon World
 
-Beyond is based on Dungeon World, but it isn't a new edition of that
+*Beyond* is based on *Dungeon World*, but it isn't a new edition of that
 game. It considerably shifts the mechanics, procedures, and setting.
 Since this is a playtest and is incomplete this section helps fill in
-the game: you can just assume this is Dungeon World except that...
+the game: you can just assume this is *Dungeon* World except that...
 
 -   There are no stats. Each move has its own bonus which advances on
     its own.
@@ -95,9 +95,9 @@ You have all the Adventurer Moves.
 
 Choose three class moves to start with from among your themes. Your
 themes are [Towermage](#towermage-theme), [Ritualist](#ritualist-theme),
-and [Witchblood](#witchblood-theme). You must take the first move in
-each theme before taking any below it. Indicate your move by marking it
-(put an x: (x) to show you have the move).
+and [Warlock](#warlock-theme). You must take the first move in each
+theme before taking any below it. Indicate your move by marking it (put
+an x: (x) to show you have the move).
 
 When you roll a 6-, mark one of the advancement boxes \[ \] below the
 move you rolled by adding an x (like this: \[x\]). When all the
@@ -309,17 +309,17 @@ your own place of power. Describe to the GM what kind of power it is and
 how you're binding it to this place, the GM will tell you one
 organization or being that will have an interest in your workings.
 
-### Witchblood Theme
+### Warlock Theme
 
-#### ( ) Power In The Blood
+#### ( ) Sworn
 
-Gain (or reveal) witchblood.
+Gain a *[mystic patron](#mystic-patron)*.
 
 #### ( ) Grit
 
 +1 reserve die
 
-#### ( ) Omega
+#### ( ) Magic Eater
 
 When you absorb a magical effect, roll+1. On a 10+ the effect ends and
 you gain a reserve die (even over your maximum). On a 7-9 the effect is
@@ -494,4 +494,63 @@ one target.
 
 Walk a wide circle as you cast this spell. Until you prepare spells
 again your magic will alert you if a creature crosses that circle. Even
-if you are asleep, the spell will shake you from your slumber.
+if you are asleep, the spell will shake you from your slumber. \# Mystic
+Patron
+
+You have the patronage of a mystical entity. You gain the Patron, Dark
+Bargain, and Desperate Plea moves.
+
+## Patron
+
+You have a connection to an entity connected to one of the fundamental
+forces of magic. Note their name (as best you know it, maybe Palmon, The
+Queen of Tears, or Fists-of-Stars) and choose one for each:
+
+-   Name: \_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Sign
+    -   A dimming of lights
+    -   Insects and rodents
+    -   An inaudible rumble
+    -   A scent of spice
+-   Seeming
+    -   Glum and gloomy
+    -   Cold
+    -   Aristocratic
+    -   Cruel and uncaring
+    -   Joyous
+-   Interest
+    -   Mortal memories
+    -   Souls
+    -   Reshaping the world
+    -   Sacrifices
+-   Powers
+    -   Shadows
+    -   Creatures of the dark
+    -   Flames
+    -   Frost
+
+## Dark Bargain
+
+When you tell your patron what you want and make it known you will pay
+the GM will name a cost for each that is true:
+
+-   The request is not in your patron's interest
+-   The request is hard to accomplish with their powers
+-   Your patron is happy with you
+
+Potential costs include:
+
+-   Retrieving something of value
+-   Destroying an obstacle
+-   Spreading the sign of your patron
+-   Causing embarassament to their enemies
+
+## Desparate Plea
+
+When you look to your arcane patron in a moment of need, roll. On a 10+
+their agenda aligns with yours for the moment: some manifestation of
+their power will remove you from danger, at least for the moment. On a
+7-9 you are still too useful to lose, but there is a cost: they will
+preserve you, but hold 1 over you. Expect them to claim something that
+is yours at the worst time. So long as they have hold over you, they
+will not answer another desparate plea.

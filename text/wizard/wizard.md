@@ -3,9 +3,9 @@ You have all the Adventurer Moves.
 
 Choose three class moves to start with from among your themes. Your themes are
 [Towermage](#towermage-theme), [Ritualist](#ritualist-theme), and
-[Witchblood](#witchblood-theme). You must take the first move in each theme
-before taking any below it. Indicate your move by marking it (put an x: (x) to
-show you have the move).
+[Warlock](#warlock-theme). You must take the first move in each theme before
+taking any below it. Indicate your move by marking it (put an x: (x) to show
+you have the move).
 
 When you roll a 6-, mark one of the advancement boxes [ ] below the move you
 rolled by adding an x (like this: [x]). When all the advancement boxes for an
@@ -26,9 +26,9 @@ GM tells you to remove a condition.
 
 ### Defy Danger
 When you act despite an imminent threat or suffer a calamity, say how you deal
-with it and roll. On a 10+, you do what you set out to, the threat doesn’t
-come to bear. On a 7–9, you stumble, hesitate, or flinch: the GM will offer
-you a worse outcome, hard bargain, or ugly choice.
+with it and roll. On a 10+, you do what you set out to, the threat doesn’t come
+to bear. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a
+worse outcome, hard bargain, or ugly choice.
 
 #### Abilities
 
@@ -85,13 +85,13 @@ when acting on the answers.
 
 ### Parley
 When you have leverage on a GM Character and push them to do what you want,
-roll. On a 10+, they do what you ask if you first promise what they ask of
-you. On a 7–9, they will do what you ask, but need some concrete assurance of
-your promise, right now.
+roll. On a 10+, they do what you ask if you first promise what they ask of you.
+On a 7–9, they will do what you ask, but need some concrete assurance of your
+promise, right now.
 
 #### Abilities
-* [ ][ ][ ][ ][ ] Renown: Take +1 among those that have heard tales of when
-  you ____________
+* [ ][ ][ ][ ][ ] Renown: Take +1 among those that have heard tales of when you
+  ____________
 * [ ][ ][ ][ ][ ] Parlor Tricks: Take +1 when parleying someone who has
   recently seen a display of your power.
 
@@ -112,22 +112,21 @@ damage to the enemy and the enemy makes an attack against you.
 * [ ][ ][ ][ ][ ] Warwizard: +1
 
 #### Conditions
-* < > Wounded: No matter the result you take 1 damage (in addition to any
-  other results).
+* < > Wounded: No matter the result you take 1 damage (in addition to any other
+  results).
 
 ### Volley
 When you take aim and shoot at an enemy at range, roll. On a 10+, you have a
 clear shot—deal your damage. On a 7–9, choose one (whichever you choose you
 deal your damage):
 
-* You have to move to get the shot placing you in danger as described by the
-  GM
+* You have to move to get the shot placing you in danger as described by the GM
 * You have to take what you can get: -1d6 damage
 * You have to take several shots, reducing your ammo by one
 
 #### Abilities
-* [ ][ ][ ][ ][ ] Trueshot: Take +2 when targeting someone recently affected
-  by one of your spells
+* [ ][ ][ ][ ][ ] Trueshot: Take +2 when targeting someone recently affected by
+  one of your spells
 * [ ][ ][ ][ ][ ][ ][ ] Innate Magic Missile: You can always fire magic
   projectiles. On a 7-9 you cannot choose to reduce your ammo.
 
@@ -177,23 +176,23 @@ When you have time and safety with a magic item you may ask the GM what it
 does, the GM will answer you truthfully.
 
 #### ( ) Self-Powered
-When you have time, arcane materials, and a safe space, you can create your
-own place of power. Describe to the GM what kind of power it is and how you’re
+When you have time, arcane materials, and a safe space, you can create your own
+place of power. Describe to the GM what kind of power it is and how you’re
 binding it to this place, the GM will tell you one organization or being that
 will have an interest in your workings.
 
-### Witchblood Theme
+### Warlock Theme
 
-#### ( ) Power In The Blood
-Gain (or reveal) witchblood.
+#### ( ) Sworn
+Gain a _[mystic patron](#mystic-patron)_.
 
 #### ( ) Grit
 +1 reserve die
 
-#### ( ) Omega
-When you absorb a magical effect, roll+1. On a 10+ the effect ends and you
-gain a reserve die (even over your maximum). On a 7-9 the effect is
-temporarily suspended and you gain a reserve die up to your maximum.
+#### ( ) Magic Eater
+When you absorb a magical effect, roll+1. On a 10+ the effect ends and you gain
+a reserve die (even over your maximum). On a 7-9 the effect is temporarily
+suspended and you gain a reserve die up to your maximum.
 
 ##### Abilities
 * [ ][ ][ ][ ][ ] Amplifier: The reserve dice you gain through Omega are d8
@@ -202,8 +201,8 @@ temporarily suspended and you gain a reserve die up to your maximum.
 ## Bonds
 Choose a bond. When your bond applies to a roll you make you or the target of
 the bond may increase the result of a roll by one category (6- to 7-9, 7-9 to
-10+) and mark a bond advancement. When all advancements are marked choose a
-new bond in place of the one that you completed (but keep the ability).
+10+) and mark a bond advancement. When all advancements are marked choose a new
+bond in place of the one that you completed (but keep the ability).
 
 * ( ) There is a power in _______ that I want to understand.
   * [ ][ ][ ][ ][ ] Expanded Horizons: You may also take moves from ______’s
@@ -222,8 +221,8 @@ new bond in place of the one that you completed (but keep the ability).
 
 ## XP
 At the end of each session mark those that you did that session. When you have
-time to train in safety, if you have marked your level + 3 XP, erase all XP
-and gain a level (each mark counts separately).
+time to train in safety, if you have marked your level + 3 XP, erase all XP and
+gain a level (each mark counts separately).
 
 * [ ][ ][ ] Improve your knowledge of magic
 * [ ][ ][ ] Serve your allegiance through mystical power

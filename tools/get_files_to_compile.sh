@@ -6,3 +6,4 @@ echo \
   $rootdir/text/introduction.md \
   $rootdir/text/wizard/wizard.md \
   $rootdir/text/wizard/spellbook.md \
+  $rootdir/text/wizard/mystic_patron.md \
