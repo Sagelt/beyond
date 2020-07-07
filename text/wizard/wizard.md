@@ -136,7 +136,7 @@ deal your damage):
 ### Towermage Theme
 
 #### ( ) Practiced Caster
-Gain a spellbook.
+Gain a _[spellbook](#spellbook)_.
 
 #### ( ) Spell Study
 When you see new magic performed or study a new magical power, mark an
