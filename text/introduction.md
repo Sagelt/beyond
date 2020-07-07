@@ -20,7 +20,7 @@ would live off the work of others.
 
 ## A Fantasy Adventure Game
 
-Beyond is a fantasy adventure game drawing on a long lineage of similar games.
+_Beyond_ is a fantasy adventure game drawing on a long lineage of similar games.
 It aims to embrace the parts of the genre that work while also moving it
 forward. You’ll need a GM and 3-5 players.
 
@@ -29,14 +29,14 @@ You can view this playtest version as [a web page](http://http://www.latorra.org
 You can send feedback to me [on twitter](https://twitter.com/olde_fortran) or
 by [filing an issue on GitHub](https://github.com/Sagelt/beyond/issues/new/choose).
 
-Oh, and the name Beyond is probably a placeholder. Or maybe not. Who knows.
+Oh, and the name _Beyond_ is probably a placeholder. Or maybe not. Who knows.
 
 ## Quick Start Guide From Dungeon World
 
-Beyond is based on Dungeon World, but it isn’t a new edition of that game. It
+_Beyond_ is based on _Dungeon World_, but it isn’t a new edition of that game. It
 considerably shifts the mechanics, procedures, and setting. Since this is a
 playtest and is incomplete this section helps fill in the game:  you can just
-assume this is Dungeon World except that…
+assume this is _Dungeon_ World except that…
 
 * There are no stats. Each move has its own bonus which advances on its own.
 * Rolling a 6- doesn’t grant XP. Instead it grants advancement towards
