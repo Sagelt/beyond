@@ -1,8 +1,9 @@
-# Beyond
+---
+subtitle: A Fantasy Adventure Game By Sage LaTorra
+title: Beyond
+---
 
-*A Fantasy Adventure Game By Sage LaTorra*
-
-## Introduction
+# Introduction
 
 The world is broken but that's not the problem. A magical mishap
 collided the world with its own past, future, and a few parallel

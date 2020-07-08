@@ -1,0 +1,8 @@
+---
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \lhead[\leftmark]{\leftmark}
+    \chead[]{}
+    \rhead[v0.0.20200708]{v0.0.20200708}
+---
