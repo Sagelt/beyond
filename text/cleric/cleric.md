@@ -58,9 +58,9 @@ When you closely study a situation or person, roll+2. On a 10+, ask the GM 3 que
 
 #### Abilities
 * [ ][ ][ ][ ][ ] Attentive: +1
- * [ ][ ][ ][ ][ ] Signs of Belief: No matter the result you may also ask “what
+* [ ][ ][ ][ ][ ] Signs of Belief: No matter the result you may also ask “what
   gods are present here?”
- * [ ][ ][ ][ ][ ] Strictures: You may also ask “what do this person’s beliefs
+* [ ][ ][ ][ ][ ] Strictures: You may also ask “what do this person’s beliefs
   want them to do here?”
 
 #### Conditions
