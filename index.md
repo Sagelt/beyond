@@ -151,8 +151,11 @@ able to wake the camp and prepare a response, everyone in the camp takes
 +1 forward. On a 7--9, you react just a moment too late; your companions
 in camp are awake but haven't had time to prepare. They have weapons and
 armor but little else. On a miss, whatever lurks outside the campfire's
-light has the drop on you. \# The Cleric You have all the Adventurer
-Moves and Deity.
+light has the drop on you.
+
+# The Cleric
+
+You have all the Adventurer Moves and Deity.
 
 Choose three class moves to start with from among your themes. Your
 themes are [Caster](#--caster), [Protector](#--protector), and
