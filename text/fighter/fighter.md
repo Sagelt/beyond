@@ -68,8 +68,10 @@ when acting on the answers.
 **Abilities**
 
 * [ ][ ][ ][ ][ ] Seeing Red: Take +1 in combat
-* [ ][ ][ ][ ][ ] Size Up: Add "How could I defeat them in combat?" to your
+* [ ][ ][ ][ ][ ] Weak Point: Add "How could I defeat them in combat?" to your
   list of questions.
+* [ ][ ][ ][ ][ ] Size Up: You may always ask "What size dice are they?" for
+  free even on a 6-.
 
 **Conditions**
 

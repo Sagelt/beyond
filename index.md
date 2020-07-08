@@ -593,8 +593,10 @@ GM 3 questions from the list below. On a 7--9, ask 1. Either way, take
 **Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Seeing Red: Take +1 in combat
--   \[ \]\[ \]\[ \]\[ \]\[ \] Size Up: Add "How could I defeat them in
-    combat?" to your list of questions.
+-   \[ \]\[ \]\[ \]\[ \]\[ \] Weak Point: Add "How could I defeat them
+    in combat?" to your list of questions.
+-   \[ \]\[ \]\[ \]\[ \]\[ \] Size Up: You may always ask "What size
+    dice are they?" for free even on a 6-.
 
 **Conditions**
 
