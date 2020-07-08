@@ -2,7 +2,8 @@
 You have all the Adventurer Moves and Deity.
 
 Choose three class moves to start with from among your themes. Your themes are
-[Caster](#caster), [Protector](#protector), and [Prophet](#prophet). You must take
+[Caster](#--caster), [Protector](#--protector), and [Prophet](#--prophet). You must
+take
 the first move in each theme
 before taking any below it. Indicate your move by marking it (put an x: (x) to
 show you have the move).
