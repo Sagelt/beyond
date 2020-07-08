@@ -8,6 +8,8 @@ echo \
   $rootdir/text/cleric/divine-patronage.md \
   $rootdir/text/fighter/fighter.md \
   $rootdir/text/fighter/signature-weapon.md \
+  $rootdir/text/thief/thief.md \
+  $rootdir/text/thief/poison-master.md \
   $rootdir/text/wizard/wizard.md \
   $rootdir/text/wizard/spellbook.md \
   $rootdir/text/wizard/mystic_patron.md \
