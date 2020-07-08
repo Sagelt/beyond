@@ -1,5 +1,8 @@
 ---
-subtitle: A Fantasy Adventure Game By Sage LaTorra
+author: Sage LaTorra
+description: A Fantasy Adventure Game
+show_downloads: true
+subtitle: A Fantasy Adventure Game
 title: Beyond
 ---
 
