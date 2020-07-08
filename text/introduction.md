@@ -89,12 +89,13 @@ assume this is _Dungeon_ World except that…
   the number of sides on that die, and their armor is equal to the number of
   sides divided by 4 (round down).
 
-## Playing Beyond
+## Getting Started
 
 Each player chooses a playbook. The currently available playbooks are:
 
 * [The Cleric](#the-cleric)
 * [The Fighter](#the-fighter)
+* [The Theif](#the-thief)
 * [The Wizard](#the-wizard)
 
 The GM provides a starting Goal for the party, then opens the adventure at a
