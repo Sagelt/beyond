@@ -5,4 +5,6 @@ header-includes: |
     \lhead[\leftmark]{\leftmark}
     \chead[]{}
     \rhead[v0.0.20200708]{v0.0.20200708}
+    \usepackage{titlesec}
+    \newcommand{\sectionbreak}{\clearpage}
 ---

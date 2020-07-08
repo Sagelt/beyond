@@ -518,8 +518,11 @@ sanctuary heals +1d4 HP.
 
 A corpse converses with you briefly. It will answer any three questions
 you pose to it to the best of the knowledge it had in life and the
-knowledge it gained in death. \# The Wizard You have all the Adventurer
-Moves.
+knowledge it gained in death.
+
+# The Wizard
+
+You have all the Adventurer Moves.
 
 Choose three class moves to start with from among your themes. Your
 themes are [Towermage](#towermage-theme), [Ritualist](#ritualist-theme),
@@ -922,8 +925,9 @@ one target.
 
 Walk a wide circle as you cast this spell. Until you prepare spells
 again your magic will alert you if a creature crosses that circle. Even
-if you are asleep, the spell will shake you from your slumber. \# Mystic
-Patron
+if you are asleep, the spell will shake you from your slumber.
+
+# Mystic Patron
 
 You have the patronage of a mystical entity. You gain the Patron, Dark
 Bargain, and Desperate Plea moves.
