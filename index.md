@@ -120,7 +120,7 @@ until a move or the GM tells you to remove a condition.
 ### Defy Danger
 
 When you act despite an imminent threat or suffer a calamity, say how
-you deal with it and roll. On a 10+, you do what you set out to, the
+you deal with it and roll+0. On a 10+, you do what you set out to, the
 threat doesn't come to bear. On a 7--9, you stumble, hesitate, or
 flinch: the GM will offer you a worse outcome, hard bargain, or ugly
 choice.
@@ -128,9 +128,9 @@ choice.
 #### Abilities
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Worldly: Take +1 when you act through
-    wisdom and lore. 
+    wisdom and lore.
 -   \[ \]\[ \]\[ \]\[ \]\[ \] By Faith Sustained: Take +1 when defying
-    disease, poison, or magic. 
+    disease, poison, or magic.
 -   \[ \]\[ \]\[ \]\[ \]\[ \]\[ \]\[ \] Magical Inversion: When the
     danger you face is magical and you roll a 12+ you can subsume the
     magical power and gain power from it.
@@ -524,7 +524,7 @@ until a move or the GM tells you to remove a condition.
 ### Defy Danger
 
 When you act despite an imminent threat or suffer a calamity, say how
-you deal with it and roll. On a 10+, you do what you set out to, the
+you deal with it and roll+0. On a 10+, you do what you set out to, the
 threat doesn't come to bear. On a 7--9, you stumble, hesitate, or
 flinch: the GM will offer you a worse outcome, hard bargain, or ugly
 choice.
@@ -594,7 +594,7 @@ GM 3 questions from the list below. On a 7--9, ask 1. Either way, take
 ### Parley
 
 When you have leverage on a GM Character and push them to do what you
-want, roll. On a 10+, they do what you ask if you first promise what
+want, roll+0. On a 10+, they do what you ask if you first promise what
 they ask of you. On a 7--9, they will do what you ask, but need some
 concrete assurance of your promise, right now.
 
@@ -632,7 +632,7 @@ against you.
 
 ### Volley
 
-When you take aim and shoot at an enemy at range, roll. On a 10+, you
+When you take aim and shoot at an enemy at range, roll+0. On a 10+, you
 have a clear shot---deal your damage. On a 7--9, choose one (whichever
 you choose you deal your damage):
 
@@ -951,8 +951,8 @@ Potential costs include:
 
 ## Desparate Plea
 
-When you look to your arcane patron in a moment of need, roll. On a 10+
-their agenda aligns with yours for the moment: some manifestation of
+When you look to your arcane patron in a moment of need, roll+0. On a
+10+ their agenda aligns with yours for the moment: some manifestation of
 their power will remove you from danger, at least for the moment. On a
 7-9 you are still too useful to lose, but there is a cost: they will
 preserve you, but hold 1 over you. Expect them to claim something that

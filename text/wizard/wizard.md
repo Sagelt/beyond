@@ -26,9 +26,9 @@ GM tells you to remove a condition.
 
 ### Defy Danger
 When you act despite an imminent threat or suffer a calamity, say how you deal
-with it and roll. On a 10+, you do what you set out to, the threat doesn’t come
-to bear. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a
-worse outcome, hard bargain, or ugly choice.
+with it and roll+0. On a 10+, you do what you set out to, the threat doesn’t
+come to bear. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you
+a worse outcome, hard bargain, or ugly choice.
 
 #### Abilities
 
@@ -85,9 +85,9 @@ when acting on the answers.
 
 ### Parley
 When you have leverage on a GM Character and push them to do what you want,
-roll. On a 10+, they do what you ask if you first promise what they ask of you.
-On a 7–9, they will do what you ask, but need some concrete assurance of your
-promise, right now.
+roll+0. On a 10+, they do what you ask if you first promise what they ask of
+you. On a 7–9, they will do what you ask, but need some concrete assurance of
+your promise, right now.
 
 #### Abilities
 * [ ][ ][ ][ ][ ] Renown: Take +1 among those that have heard tales of when you
@@ -116,7 +116,7 @@ damage to the enemy and the enemy makes an attack against you.
   results).
 
 ### Volley
-When you take aim and shoot at an enemy at range, roll. On a 10+, you have a
+When you take aim and shoot at an enemy at range, roll+0. On a 10+, you have a
 clear shot—deal your damage. On a 7–9, choose one (whichever you choose you
 deal your damage):
 

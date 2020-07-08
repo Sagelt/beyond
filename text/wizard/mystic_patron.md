@@ -50,7 +50,7 @@ Potential costs include:
 
 ## Desparate Plea
 
-When you look to your arcane patron in a moment of need, roll. On a 10+ their
+When you look to your arcane patron in a moment of need, roll+0. On a 10+ their
 agenda aligns with yours for the moment: some manifestation of their power will
 remove you from danger, at least for the moment. On a 7-9 you are still too
 useful to lose, but there is a cost: they will preserve you, but hold 1 over
