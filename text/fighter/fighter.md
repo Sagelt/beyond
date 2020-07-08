@@ -198,3 +198,51 @@ reduction leaves the item with 0 armor it is destroyed.
 #### ( ) Indomitable
 
 +6 HP
+
+## Bonds
+
+Choose a bond. When your bond applies to a roll you make you or the target of
+the bond may increase the result of a roll by one category (6- to 7-9, 7-9 to
+10+) and mark a bond advancement. When all advancements are marked choose a new
+bond in place of the one that you completed (but keep the ability).
+
+* ( ) There is a power in _______ that I want to understand.
+  * [ ][ ][ ][ ][ ] Expanded Horizons: You may also take moves from ______’s
+    class
+* ( ) I believe an ancient prophecy is about _______ and I must protect them.
+  * [ ][ ][ ][ ][ ] Prophetic Visions: When you discern realities you may also
+    ask “What will happen if ________ does _________?”
+* ( ) ________ can learn much from me, I must teach them
+  * [ ][ ][ ][ ][ ] Mystical Mentorship: You can always tell the direction and
+    distance to __________
+
+## Stats
+* 10 HP
+* 1d8 damage
+* 2d6 reserves
+
+## XP
+At the end of each session mark those that you did that session. When you have
+time to train in safety, if you have marked your level + 3 XP, erase all XP and
+gain a level (each mark counts separately).
+
+* [ ][ ][ ] Prove yourself against a worthy adversary
+* [ ][ ][ ] An impressive show of strength
+* [ ][ ] Encounter a new fighting style
+* [ ][ ][ ] Aid someone in need
+* [ ][ ] Lead a charge into battle
+* [ ][ ] Achieve a goal
+
+## Allegiance
+Choose an allegiance to start with: Strength, The Golden Company, Power
+
+## Goal
+The GM will give your party a starting goal. When you accomplish that, set a
+new goal in collaboration with the other players.
+
+## Gear
+* A powerful melee weapon: ___________
+* A reserve melee weapon: ___________
+* A memento mori: ____________
+* Two healing potions (drink to recover a reserve dice)
+* Supplies (5)
