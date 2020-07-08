@@ -28,3 +28,4 @@ weapon from the lists below.
   * Huge. Knocks enemies back, leaves grevious wounds.
   * Versatile. Can be used to volley.
   * Guard. +1 armor.
+  

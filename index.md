@@ -816,8 +816,11 @@ it for long. Describe your weapon from the lists below.
     -   Glows in the presence of one type of creature, your choice.
     -   Huge. Knocks enemies back, leaves grevious wounds.
     -   Versatile. Can be used to volley.
-    -   Guard. +1 armor. \# The Wizard You have all the Adventurer
-        Moves.
+    -   Guard. +1 armor.
+
+# The Wizard
+
+You have all the Adventurer Moves.
 
 Choose three class moves to start with from among your themes. Your
 themes are [Towermage](#--towermage), [Ritualist](#--ritualist), and
