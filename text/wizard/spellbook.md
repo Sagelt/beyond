@@ -29,7 +29,8 @@ On a 7-9, the spell is cast, but choose one:
 Note that maintaining spells with ongoing effects will sometimes cause a
 penalty to your roll to cast a spell.
 
-### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Trial And Error: Gain a new spell of your level or lower,
   then erase all advancement from this ability.
 * [ ][ ][ ][ ][ ][ ][ ] Master Caster: +1
@@ -37,7 +38,8 @@ penalty to your roll to cast a spell.
   the 7-9 list. If you do, you may maximize the spells effects or double its
   targets.
 
-### Conditions
+**Conditions**
+
 * < > Leaky Mind: On a hit you always forget the spell, in addition to any
   other choice you have to make.
 

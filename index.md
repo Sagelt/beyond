@@ -151,7 +151,7 @@ threat doesn't come to bear. On a 7--9, you stumble, hesitate, or
 flinch: the GM will offer you a worse outcome, hard bargain, or ugly
 choice.
 
-#### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Worldly: Take +1 when you act through
     wisdom and lore.
@@ -161,7 +161,7 @@ choice.
     danger you face is magical and you roll a 12+ you can subsume the
     magical power and gain power from it.
 
-#### Conditions
+**Conditions**
 
 -   \< \> Fanatic: When you roll a 9- you must redouble your efforts, no
     matter the cost.
@@ -175,7 +175,7 @@ subject relevant to your situation. On a 7--9, the GM will only tell you
 something interesting---it's on you to make it useful. The GM might ask
 you "How do you know this?" Tell them the truth, now.
 
-#### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Wise: +1
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Guided By Voices: When you consult the
@@ -184,7 +184,7 @@ you "How do you know this?" Tell them the truth, now.
     the favor the gods ask in return, you may not use this again until
     you fulfill their request.
 
-#### Conditions
+**Conditions**
 
 -   \< \> Dazed: -1
 
@@ -201,7 +201,7 @@ GM 3 questions from the list below. On a 7--9, ask 1. Either way, take
 -   Who's really in control here?
 -   What here is not what it appears to be?
 
-#### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Attentive: +1
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Signs of Belief: No matter the result you
@@ -209,7 +209,7 @@ GM 3 questions from the list below. On a 7--9, ask 1. Either way, take
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Strictures: You may also ask "what do this
     person's beliefs want them to do here?"
 
-#### Conditions
+**Conditions**
 
 -   \< \> Disoriented: -1
 
@@ -220,7 +220,7 @@ want, roll+0. On a 10+, they do what you ask if you first promise what
 they ask of you. On a 7--9, they will do what you ask, but need some
 concrete assurance of your promise, right now.
 
-#### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] The Voice Of The Gods: When your leverage
     is the manifest will of the gods, take +1.
@@ -235,12 +235,12 @@ choose to do +1d6 damage but expose yourself to the enemy's attack. On a
 7--9, you deal your damage to the enemy and the enemy makes an attack
 against you.
 
-#### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Resilient: On a 6- you take +1 forward
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Warpriest: +1
 
-#### Conditions
+**Conditions**
 
 -   \< \> Wounded: No matter the result you take 1 damage (in addition
     to any other results).
@@ -304,7 +304,7 @@ undead to flee. Aggression breaks the effects and they are able to act
 as normal. Intelligent undead may still find ways to harry you from
 afar. They're clever like that.
 
-##### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Banish Undead: You also deal your damage
     to all undead present on a 7+.
@@ -552,7 +552,7 @@ threat doesn't come to bear. On a 7--9, you stumble, hesitate, or
 flinch: the GM will offer you a worse outcome, hard bargain, or ugly
 choice.
 
-#### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Sharp: Take +1 when you act through an
     improvisation and quick thinking.
@@ -562,7 +562,7 @@ choice.
     danger you face is magical and you roll a 12+ you can subsume the
     magical power and gain power from it.
 
-#### Conditions
+**Conditions**
 
 -   \< \> Cowardly: When you roll a 9- you must also immediately act to
     remove yourself from the situation, dropping whatever else you were
@@ -577,7 +577,7 @@ subject relevant to your situation. On a 7--9, the GM will only tell you
 something interesting---it's on you to make it useful. The GM might ask
 you "How do you know this?" Tell them the truth, now.
 
-#### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Wise: +1
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Area of Expertise: Take +1 when the topic
@@ -585,7 +585,7 @@ you "How do you know this?" Tell them the truth, now.
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Fount of Knowledge: Take +1 if the topic
     is something no one else has any clue about.
 
-#### Conditions
+**Conditions**
 
 -   \< \> Dazed: -1
 
@@ -602,7 +602,7 @@ GM 3 questions from the list below. On a 7--9, ask 1. Either way, take
 -   Who's really in control here?
 -   What here is not what it appears to be?
 
-#### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Attentive: +1
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Mage Sight: No matter the result you may
@@ -621,7 +621,7 @@ want, roll+0. On a 10+, they do what you ask if you first promise what
 they ask of you. On a 7--9, they will do what you ask, but need some
 concrete assurance of your promise, right now.
 
-#### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Renown: Take +1 among those that have
     heard tales of when you \_\_\_\_\_\_\_\_\_\_\_\_
@@ -641,7 +641,7 @@ choose to do +1d6 damage but expose yourself to the enemy's attack. On a
 7--9, you deal your damage to the enemy and the enemy makes an attack
 against you.
 
-#### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Warpblade: You can manifest a dagger-like
     weapon from pure magical energy. You are always armed, if you choose
@@ -664,7 +664,7 @@ you choose you deal your damage):
 -   You have to take what you can get: -1d6 damage
 -   You have to take several shots, reducing your ammo by one
 
-#### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Trueshot: Take +2 when targeting someone
     recently affected by one of your spells
@@ -683,7 +683,7 @@ Gain a *[spellbook](#spellbook)*.
 When you see new magic performed or study a new magical power, mark an
 advancement for this move.
 
-##### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Breakthrough: Add a new spell to your
     spellbook of the GM's choice then erase all advancements for this
@@ -746,7 +746,7 @@ When you absorb a magical effect, roll+1. On a 10+ the effect ends and
 you gain a reserve die (even over your maximum). On a 7-9 the effect is
 temporarily suspended and you gain a reserve die up to your maximum.
 
-##### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Amplifier: The reserve dice you gain
     through Omega are d8 instead of d6.
@@ -839,7 +839,7 @@ again later. On a 7-9, the spell is cast, but choose one:
 Note that maintaining spells with ongoing effects will sometimes cause a
 penalty to your roll to cast a spell.
 
-### Abilities
+**Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Trial And Error: Gain a new spell of your
     level or lower, then erase all advancement from this ability.
@@ -848,7 +848,7 @@ penalty to your roll to cast a spell.
     option of choosing from the 7-9 list. If you do, you may maximize
     the spells effects or double its targets.
 
-### Conditions
+**Conditions**
 
 -   \< \> Leaky Mind: On a hit you always forget the spell, in addition
     to any other choice you have to make.

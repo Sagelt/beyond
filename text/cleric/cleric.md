@@ -33,14 +33,16 @@ with it and roll+0. On a 10+, you do what you set out to, the threat doesn’t
 come to bear. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you
 a worse outcome, hard bargain, or ugly choice.
 
-#### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Worldly: Take +1 when you act through wisdom and lore.
 * [ ][ ][ ][ ][ ] By Faith Sustained: Take +1 when defying disease, poison, or
   magic.
 * [ ][ ][ ][ ][ ][ ][ ] Magical Inversion: When the danger you face is magical
   and you roll a 12+ you can subsume the magical power and gain power from it.
 
-#### Conditions
+**Conditions**
+
 * < > Fanatic: When you roll a 9- you must redouble your efforts, no matter the
   cost.
 * < > Shaken: -1
@@ -53,14 +55,16 @@ relevant to your situation. On a 7–9, the GM will only tell you something
 interesting—it’s on you to make it useful. The GM might ask you “How do you
 know this?” Tell them the truth, now.
 
-#### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Wise: +1
 * [ ][ ][ ][ ][ ] Guided By Voices: When you consult the voices of the gods in
   addition to your own knowledge you may improve your result one step (6- to
   7-9, 7-9 to 10+). The GM will tell you the favor the gods ask in return, you
   may not use this again until you fulfill their request.
 
-#### Conditions
+**Conditions**
+
 * < > Dazed: -1
 
 ### Discern Realities
@@ -76,14 +80,16 @@ when acting on the answers.
 * Who’s really in control here?
 * What here is not what it appears to be?
 
-#### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Attentive: +1
 * [ ][ ][ ][ ][ ] Signs of Belief: No matter the result you may also ask “what
   gods are present here?”
 * [ ][ ][ ][ ][ ] Strictures: You may also ask “what do this person’s beliefs
   want them to do here?”
 
-#### Conditions
+**Conditions**
+
 * < > Disoriented: -1
 
 ### Parley
@@ -93,7 +99,8 @@ roll+0. On a 10+, they do what you ask if you first promise what they ask of
 you. On a 7–9, they will do what you ask, but need some concrete assurance of
 your promise, right now.
 
-#### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] The Voice Of The Gods: When your leverage is the manifest
   will of the gods, take +1.
 * [ ][ ][ ][ ][ ] Stigmata: Take +1 when you have shed your own blood on behalf
@@ -106,11 +113,13 @@ the enemy and avoid their attack. At your option, you may choose to do +1d6
 damage but expose yourself to the enemy’s attack. On a 7–9, you deal your
 damage to the enemy and the enemy makes an attack against you.
 
-#### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Resilient: On a 6- you take +1 forward
 * [ ][ ][ ][ ][ ] Warpriest: +1
 
-#### Conditions
+**Conditions**
+
 * < > Wounded: No matter the result you take 1 damage (in addition to any other
   results).
 
@@ -168,7 +177,8 @@ intelligent undead and cause mindless undead to flee. Aggression breaks the
 effects and they are able to act as normal. Intelligent undead may still find
 ways to harry you from afar. They’re clever like that.
 
-##### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Banish Undead: You also deal your damage to all undead
   present on a 7+.
 * [ ][ ][ ][ ][ ][ ][ ] Sanctify: On a 7+ the ground you stand on up to 10

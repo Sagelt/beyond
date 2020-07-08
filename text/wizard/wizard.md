@@ -30,7 +30,7 @@ with it and roll+0. On a 10+, you do what you set out to, the threat doesn’t
 come to bear. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you
 a worse outcome, hard bargain, or ugly choice.
 
-#### Abilities
+**Abilities**
 
 * [ ][ ][ ][ ][ ] Sharp: Take +1 when you act through an improvisation and
   quick thinking.
@@ -38,7 +38,7 @@ a worse outcome, hard bargain, or ugly choice.
 * [ ][ ][ ][ ][ ][ ][ ] Magical Inversion: When the danger you face is magical
   and you roll a 12+ you can subsume the magical power and gain power from it.
 
-#### Conditions
+**Conditions**
 
 * < > Cowardly: When you roll a 9- you must also immediately act to remove
   yourself from the situation, dropping whatever else you were doing.
@@ -51,13 +51,15 @@ relevant to your situation. On a 7–9, the GM will only tell you something
 interesting—it’s on you to make it useful. The GM might ask you “How do you
 know this?” Tell them the truth, now.
 
-#### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Wise: +1
 * [ ][ ][ ][ ][ ] Area of Expertise: Take +1 when the topic is ___________
 * [ ][ ][ ][ ][ ] Fount of Knowledge: Take +1 if the topic is something no one
   else has any clue about.
 
-#### Conditions
+**Conditions**
+
 * < > Dazed: -1
 
 ### Discern Realities
@@ -73,7 +75,8 @@ when acting on the answers.
 * Who’s really in control here?
 * What here is not what it appears to be?
 
-#### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Attentive: +1
 * [ ][ ][ ][ ][ ] Mage Sight: No matter the result you may also ask “what here
   is magical?”
@@ -89,7 +92,8 @@ roll+0. On a 10+, they do what you ask if you first promise what they ask of
 you. On a 7–9, they will do what you ask, but need some concrete assurance of
 your promise, right now.
 
-#### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Renown: Take +1 among those that have heard tales of when you
   ____________
 * [ ][ ][ ][ ][ ] Parlor Tricks: Take +1 when parleying someone who has
@@ -105,7 +109,8 @@ the enemy and avoid their attack. At your option, you may choose to do +1d6
 damage but expose yourself to the enemy’s attack. On a 7–9, you deal your
 damage to the enemy and the enemy makes an attack against you.
 
-#### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Warpblade: You can manifest a dagger-like weapon from pure
   magical energy. You are always armed, if you choose to be. Your warpblade
   ignores mundane armor.
@@ -124,7 +129,8 @@ deal your damage):
 * You have to take what you can get: -1d6 damage
 * You have to take several shots, reducing your ammo by one
 
-#### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Trueshot: Take +2 when targeting someone recently affected by
   one of your spells
 * [ ][ ][ ][ ][ ][ ][ ] Innate Magic Missile: You can always fire magic
@@ -141,7 +147,8 @@ Gain a _[spellbook](#spellbook)_.
 When you see new magic performed or study a new magical power, mark an
 advancement for this move.
 
-##### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Breakthrough: Add a new spell to your spellbook of the GM’s
   choice then erase all advancements for this ability.
 * [ ][ ][ ][ ][ ][ ][ ] Discovery: Add a new spell to your spellbook of your
@@ -199,7 +206,8 @@ When you absorb a magical effect, roll+1. On a 10+ the effect ends and you gain
 a reserve die (even over your maximum). On a 7-9 the effect is temporarily
 suspended and you gain a reserve die up to your maximum.
 
-##### Abilities
+**Abilities**
+
 * [ ][ ][ ][ ][ ] Amplifier: The reserve dice you gain through Omega are d8
   instead of d6.
 
