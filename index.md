@@ -424,12 +424,14 @@ from \_\_\_\_\_\_'s class
 
 At the end of each session mark those that you did that session. When
 you have time to train in safety, if you have marked your level + 3 XP,
-erase all XP and gain a level (each mark counts separately). \* \[ \]\[
-\]\[ \] Bring peace to a situation \* \[ \]\[ \]\[ \] Serve your
-allegiance through divine power \* \[ \]\[ \] Learn about your own faith
-or a new faith \* \[ \]\[ \]\[ \] Aid someone in need on behalf of the
-gods \* \[ \]\[ \] Put your deity before yourself \* \[ \]\[ \] Achieve
-a goal
+erase all XP and gain a level (each mark counts separately).
+
+-   \[ \]\[ \]\[ \] Bring peace to a situation
+-   \[ \]\[ \]\[ \] Serve your allegiance through divine power
+-   \[ \]\[ \] Learn about your own faith or a new faith
+-   \[ \]\[ \]\[ \] Aid someone in need on behalf of the gods
+-   \[ \]\[ \] Put your deity before yourself
+-   \[ \]\[ \] Achieve a goal
 
 ## Allegiance
 
