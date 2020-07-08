@@ -95,7 +95,7 @@ Each player chooses a playbook. The currently available playbooks are:
 
 * [The Cleric](#the-cleric)
 * [The Fighter](#the-fighter)
-* [The Theif](#the-thief)
+* [The Thief](#the-thief)
 * [The Wizard](#the-wizard)
 
 The GM provides a starting Goal for the party, then opens the adventure at a
