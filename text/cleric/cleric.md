@@ -144,9 +144,7 @@ Choose one precept of your religion:
 * Your religion has important sacrificial rites, add Petition: Offering
 * Your religion believes in trial by combat, add Petition: Personal Victory
 
-### Caster Theme
-
-#### ( ) Favored By The Gods
+### ( ) Caster
 
 Gain _[Divine Patronage](#divine-patronage)_.
 
@@ -179,9 +177,7 @@ ways to harry you from afar. They’re clever like that.
 * < > Marked By Death: The undead and spirits are drawn to you for revenge or
   salvation.
 
-### Protector Theme
-
-#### ( ) Divine Intervention
+### ( ) Protector
 
 When you petition your deity according to the precept of your religion you get
 1 hold and lose any hold you already had. Spend that hold when you or an ally
@@ -208,9 +204,8 @@ does, the GM will answer you truthfully.
 
 When you wear no armor or shield you get 3 armor.
 
-### Prophet Theme
+### ( ) Prophet
 
-#### ( ) Divine Guidance
 When you petition your deity according to the precept of your religion, your
 deity tells you what it would have you do. Take +1 when pursuing that action.
 

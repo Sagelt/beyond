@@ -2,8 +2,8 @@
 You have all the Adventurer Moves.
 
 Choose three class moves to start with from among your themes. Your themes are
-[Towermage](#towermage-theme), [Ritualist](#ritualist-theme), and
-[Warlock](#warlock-theme). You must take the first move in each theme before
+[Towermage](#towermage), [Ritualist](#ritualist), and
+[Warlock](#warlock). You must take the first move in each theme before
 taking any below it. Indicate your move by marking it (put an x: (x) to show
 you have the move).
 
@@ -132,12 +132,12 @@ deal your damage):
 
 ## Class Moves
 
-### Towermage Theme
+### ( ) Towermage
 
-#### ( ) Practiced Caster
 Gain a _[spellbook](#spellbook)_.
 
 #### ( ) Spell Study
+
 When you see new magic performed or study a new magical power, mark an
 advancement for this move.
 
@@ -148,14 +148,15 @@ advancement for this move.
   choice then erase all advancements for this ability.
 
 #### ( ) Reinforced Binding
+
 You can use your spellbook as a shield (+1 armor).
 
 #### ( ) Spell Mastery
+
 Choose a spell. You prepare that spell as if it were one level lower.
 
-### Ritualist Theme
+### ( ) Ritualist
 
-#### ( ) Ritual
 When you draw on a place of power to create a magical effect, tell the GM what
 you’re trying to achieve. Ritual effects are always possible, but the GM will
 give you one to four of the following conditions:
@@ -169,27 +170,31 @@ give you one to four of the following conditions:
 * You’ll have to disenchant _________________ to do it.
 
 #### ( ) Sustained By Magic
+
 +3 maximum HP.
 
 #### ( ) Enchanter
+
 When you have time and safety with a magic item you may ask the GM what it
 does, the GM will answer you truthfully.
 
 #### ( ) Self-Powered
+
 When you have time, arcane materials, and a safe space, you can create your own
 place of power. Describe to the GM what kind of power it is and how you’re
 binding it to this place, the GM will tell you one organization or being that
 will have an interest in your workings.
 
-### Warlock Theme
+### ( ) Warlock
 
-#### ( ) Sworn
 Gain a _[mystic patron](#mystic-patron)_.
 
 #### ( ) Grit
+
 +1 reserve die
 
 #### ( ) Magic Eater
+
 When you absorb a magical effect, roll+1. On a 10+ the effect ends and you gain
 a reserve die (even over your maximum). On a 7-9 the effect is temporarily
 suspended and you gain a reserve die up to your maximum.
@@ -199,6 +204,7 @@ suspended and you gain a reserve die up to your maximum.
   instead of d6.
 
 ## Bonds
+
 Choose a bond. When your bond applies to a roll you make you or the target of
 the bond may increase the result of a roll by one category (6- to 7-9, 7-9 to
 10+) and mark a bond advancement. When all advancements are marked choose a new

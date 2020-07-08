@@ -282,9 +282,7 @@ Choose one precept of your religion:
 -   Your religion believes in trial by combat, add Petition: Personal
     Victory
 
-### Caster Theme
-
-#### ( ) Favored By The Gods
+### ( ) Caster
 
 Gain *[Divine Patronage](#divine-patronage)*.
 
@@ -320,9 +318,7 @@ afar. They're clever like that.
 -   \< \> Marked By Death: The undead and spirits are drawn to you for
     revenge or salvation.
 
-### Protector Theme
-
-#### ( ) Divine Intervention
+### ( ) Protector
 
 When you petition your deity according to the precept of your religion
 you get 1 hold and lose any hold you already had. Spend that hold when
@@ -349,9 +345,7 @@ it does, the GM will answer you truthfully.
 
 When you wear no armor or shield you get 3 armor.
 
-### Prophet Theme
-
-#### ( ) Divine Guidance
+### ( ) Prophet
 
 When you petition your deity according to the precept of your religion,
 your deity tells you what it would have you do. Take +1 when pursuing
@@ -528,10 +522,10 @@ knowledge it gained in death.
 You have all the Adventurer Moves.
 
 Choose three class moves to start with from among your themes. Your
-themes are [Towermage](#towermage-theme), [Ritualist](#ritualist-theme),
-and [Warlock](#warlock-theme). You must take the first move in each
-theme before taking any below it. Indicate your move by marking it (put
-an x: (x) to show you have the move).
+themes are [Towermage](#towermage), [Ritualist](#ritualist), and
+[Warlock](#warlock). You must take the first move in each theme before
+taking any below it. Indicate your move by marking it (put an x: (x) to
+show you have the move).
 
 When you roll a 6-, mark one of the advancement boxes \[ \] below the
 move you rolled by adding an x (like this: \[x\]). When all the
@@ -681,9 +675,7 @@ you choose you deal your damage):
 
 ## Class Moves
 
-### Towermage Theme
-
-#### ( ) Practiced Caster
+### ( ) Towermage
 
 Gain a *[spellbook](#spellbook)*.
 
@@ -709,9 +701,7 @@ You can use your spellbook as a shield (+1 armor).
 
 Choose a spell. You prepare that spell as if it were one level lower.
 
-### Ritualist Theme
-
-#### ( ) Ritual
+### ( ) Ritualist
 
 When you draw on a place of power to create a magical effect, tell the
 GM what you're trying to achieve. Ritual effects are always possible,
@@ -743,9 +733,7 @@ your own place of power. Describe to the GM what kind of power it is and
 how you're binding it to this place, the GM will tell you one
 organization or being that will have an interest in your workings.
 
-### Warlock Theme
-
-#### ( ) Sworn
+### ( ) Warlock
 
 Gain a *[mystic patron](#mystic-patron)*.
 
