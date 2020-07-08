@@ -94,6 +94,7 @@ assume this is _Dungeon_ World except that…
 Each player chooses a playbook. The currently available playbooks are:
 
 * [The Cleric](#the-cleric)
+* [The Fighter](#the-fighter)
 * [The Wizard](#the-wizard)
 
 The GM provides a starting Goal for the party, then opens the adventure at a
