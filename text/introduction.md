@@ -20,21 +20,43 @@ would live off the work of others.
 
 ## A Fantasy Adventure Game
 
-_Beyond_ is a fantasy adventure game drawing on a long lineage of similar games.
-It aims to embrace the parts of the genre that work while also moving it
+_Beyond_ is a fantasy adventure game drawing on a long lineage of similar
+games. It aims to embrace the parts of the genre that work while also moving it
 forward. You’ll need a GM and 3-5 players.
 
-You can view this playtest version as [a web page](http://www.latorra.org/beyond/),
-[PDF](/release/Beyond.pdf), or the [raw source](https://github.com/Sagelt/beyond/).
-You can send feedback to me [on twitter](https://twitter.com/olde_fortran) or
-by [filing an issue on GitHub](https://github.com/Sagelt/beyond/issues/new/choose).
+You can view this playtest version as [a web
+page](http://www.latorra.org/beyond/), [PDF](/release/Beyond.pdf), or the [raw
+source](https://github.com/Sagelt/beyond/). You can send feedback to me [on
+twitter](https://twitter.com/olde_fortran) or by [filing an issue on
+GitHub](https://github.com/Sagelt/beyond/issues/new/choose).
 
 Oh, and the name _Beyond_ is probably a placeholder. Or maybe not. Who knows.
 
+### Versioning
+
+Each release of Beyond has a version number of the form xx.yy.zzzzzzzz. The xx
+part is the major version. A new major version indicates a milestone in
+development. We're currently on major version 0. Major version 1 will probably
+be about the point the game is ready for public playtesting. Major version 2
+would probably be some kind of funded release.
+
+The yy portion is the minor version. Minor versions differ from each other in
+ways that are significant enough that you may have to update characters, choose
+different moves, etc. You don't necessarily have to migrate between each minor
+version, you can jump ahead several at a time, but you'll need to take some
+time to review the character playbooks in particular. Each minor version gets
+release notes mentioning significant changes.
+
+The zzzzzzzz portion is the build. Each build differs in mostly editing:
+rewordings, clarifications, typo corrections. A build may also add new moves or
+playbooks but it won't alter existing moves, playbooks, or mechanics in an
+incompatible way. You should be able to move between builds for the same minor
+version on the fly.
+
 ## Quick Start Guide From Dungeon World
 
-_Beyond_ is based on _Dungeon World_, but it isn’t a new edition of that game. It
-considerably shifts the mechanics, procedures, and setting. Since this is a
+_Beyond_ is based on _Dungeon World_, but it isn’t a new edition of that game.
+It considerably shifts the mechanics, procedures, and setting. Since this is a
 playtest and is incomplete this section helps fill in the game:  you can just
 assume this is _Dungeon_ World except that…
 

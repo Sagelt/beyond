@@ -38,6 +38,29 @@ GitHub](https://github.com/Sagelt/beyond/issues/new/choose).
 Oh, and the name *Beyond* is probably a placeholder. Or maybe not. Who
 knows.
 
+### Versioning
+
+Each release of Beyond has a version number of the form xx.yy.zzzzzzzz.
+The xx part is the major version. A new major version indicates a
+milestone in development. We're currently on major version 0. Major
+version 1 will probably be about the point the game is ready for public
+playtesting. Major version 2 would probably be some kind of funded
+release.
+
+The yy portion is the minor version. Minor versions differ from each
+other in ways that are significant enough that you may have to update
+characters, choose different moves, etc. You don't necessarily have to
+migrate between each minor version, you can jump ahead several at a
+time, but you'll need to take some time to review the character
+playbooks in particular. Each minor version gets release notes
+mentioning significant changes.
+
+The zzzzzzzz portion is the build. Each build differs in mostly editing:
+rewordings, clarifications, typo corrections. A build may also add new
+moves or playbooks but it won't alter existing moves, playbooks, or
+mechanics in an incompatible way. You should be able to move between
+builds for the same minor version on the fly.
+
 ## Quick Start Guide From Dungeon World
 
 *Beyond* is based on *Dungeon World*, but it isn't a new edition of that
