@@ -739,17 +739,16 @@ to 7-9, 7-9 to 10+) and mark a bond advancement. When all advancements
 are marked choose a new bond in place of the one that you completed (but
 keep the ability).
 
--   ( ) There is a power in \_\_\_\_\_\_\_ that I want to understand.
+-   ( ) \_\_\_\_\_\_\_\_ appears weak, but there's much I can learn from
+    them.
     -   \[ \]\[ \]\[ \]\[ \]\[ \] Expanded Horizons: You may also take
         moves from \_\_\_\_\_\_'s class
--   ( ) I believe an ancient prophecy is about \_\_\_\_\_\_\_ and I must
-    protect them.
-    -   \[ \]\[ \]\[ \]\[ \]\[ \] Prophetic Visions: When you discern
-        realities you may also ask "What will happen if \_\_\_\_\_\_\_\_
-        does \_\_\_\_\_\_\_\_\_?"
--   ( ) \_\_\_\_\_\_\_\_ can learn much from me, I must teach them
-    -   \[ \]\[ \]\[ \]\[ \]\[ \] Mystical Mentorship: You can always
-        tell the direction and distance to \_\_\_\_\_\_\_\_\_\_
+-   ( ) I owe my life to \_\_\_\_\_\_\_, I will pay them back.
+    -   \[ \]\[ \]\[ \]\[ \]\[ \] Death's Friend: Take +1 to last breath
+        rolls.
+-   ( ) I worry about \_\_\_\_\_\_\_\_, I will protect them.
+    -   \[ \]\[ \]\[ \]\[ \]\[ \] Bonded: You may give your reserve dice
+        to \_\_\_\_\_\_\_\_\_\_.
 
 ## Stats
 
