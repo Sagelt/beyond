@@ -246,6 +246,7 @@ new goal in collaboration with the other players.
 
 * A powerful melee weapon: ___________
 * A reserve melee weapon: ___________
+* A typical ranged weapon: ___________
 * A memento mori: ____________
 * Two healing potions (drink to recover a reserve dice)
 * Supplies (5)

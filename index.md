@@ -782,6 +782,7 @@ set a new goal in collaboration with the other players.
 
 -   A powerful melee weapon: \_\_\_\_\_\_\_\_\_\_\_
 -   A reserve melee weapon: \_\_\_\_\_\_\_\_\_\_\_
+-   A typical ranged weapon: \_\_\_\_\_\_\_\_\_\_\_
 -   A memento mori: \_\_\_\_\_\_\_\_\_\_\_\_
 -   Two healing potions (drink to recover a reserve dice)
 -   Supplies (5)
