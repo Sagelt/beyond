@@ -610,7 +610,7 @@ GM 3 questions from the list below. On a 7--9, ask 1. Either way, take
 -   \[ \]\[ \]\[ \]\[ \]\[ \]\[ \]\[ \] Eye of Time: You may also ask
     "what happened here in the distant past which is relevant now?"
 
-#### Conditions
+**Conditions**
 
 -   \< \> Disoriented: -1
 
@@ -628,7 +628,7 @@ concrete assurance of your promise, right now.
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Parlor Tricks: Take +1 when parleying
     someone who has recently seen a display of your power.
 
-#### Conditions
+**Conditions**
 
 -   \< \> Witchmark: You have some magical alteration of your being that
     is disconcerting or distracting, take -1.
@@ -648,7 +648,7 @@ against you.
     to be. Your warpblade ignores mundane armor.
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Warwizard: +1
 
-#### Conditions
+**Conditions**
 
 -   \< \> Wounded: No matter the result you take 1 damage (in addition
     to any other results).

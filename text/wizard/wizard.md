@@ -83,7 +83,8 @@ when acting on the answers.
 * [ ][ ][ ][ ][ ][ ][ ] Eye of Time: You may also ask “what happened here in
   the distant past which is relevant now?”
 
-#### Conditions
+**Conditions**
+
 * < > Disoriented: -1
 
 ### Parley
@@ -99,7 +100,8 @@ your promise, right now.
 * [ ][ ][ ][ ][ ] Parlor Tricks: Take +1 when parleying someone who has
   recently seen a display of your power.
 
-#### Conditions
+**Conditions**
+
 * < > Witchmark: You have some magical alteration of your being that is
   disconcerting or distracting, take -1.
 
@@ -116,7 +118,8 @@ damage to the enemy and the enemy makes an attack against you.
   ignores mundane armor.
 * [ ][ ][ ][ ][ ] Warwizard: +1
 
-#### Conditions
+**Conditions**
+
 * < > Wounded: No matter the result you take 1 damage (in addition to any other
   results).
 
