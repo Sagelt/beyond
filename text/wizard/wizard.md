@@ -2,8 +2,8 @@
 You have all the Adventurer Moves.
 
 Choose three class moves to start with from among your themes. Your themes are
-[Towermage](#towermage), [Ritualist](#ritualist), and
-[Warlock](#warlock). You must take the first move in each theme before
+[Towermage](#--towermage), [Ritualist](#--ritualist), and
+[Warlock](#--warlock). You must take the first move in each theme before
 taking any below it. Indicate your move by marking it (put an x: (x) to show
 you have the move).
 
