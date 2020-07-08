@@ -103,6 +103,69 @@ World_) remain the same:
 * You have HP. You lose it when you take damage. If you get to 0 you take your
   last breath.
 
+## The World of Beyond
+
+This is a world of collisions. Magic, technology, and myth all live side by
+side.
+
+The dominant mode of the world is fantasy. The general shape of the world is
+that of a fantasy realm with dragons and dungeons, ruins and rust monsters,
+otyughs and owlbears.
+
+Bits, pieces, and people of modern Earth are common. A knight might ride a
+motorcycle instead of a charger, a wizard might keep their spells on a cell
+phone, an accountant might now be a cleric, &etc. It turns out adding modern
+technology to a fantasy realm doesn't change all that much: electric lights are
+just as convenient as a rock with _light_ cast on it.
+
+Larger transplants from modern Earth, like a few city blocks, a movie theater,
+or an entire town, are frequent. Most everyone knows of at least one such
+intrusion within their local area. In these areas the scenery flips somewhat:
+instead of bits and pieces and modernity in a fantasy realm it's small elements
+of fantasy on a modern city street.
+
+In all cases modern technology continues to work, but it works as magic instead
+of as technology. Sure, there's no reliably electricity, but somehow the winds
+of magic drive enough electrons around to keep things functioning (most of the
+time). There may not be gasoline for that pickup truck, but it turns out troll
+spit is just as flamable. In general any modern technology works as the same
+concept, but against a different world: a cell phone app might actually collect
+stray thoughts instead of posts, while a movie screen becomes an actual portal
+to another realm. Honor the metaphor of what technology does over the details
+of how you get AA batteries in a dragon's lair.
+
+Technology is not so uniform as it was in modernity, though. Since it acts
+according to the idea of what it is each cell phone might be a little
+different: a spellbook for a wizard, a direct line to the gods for a cleric. A
+few special items have come through as artifacts, behaving far beyond what
+normal items can.
+
+Less commonly other ages of Earth have collided. There's a known bit of the
+Western Front still fighting at the edge of a pastoral county. Some far future
+technology is said to have manifested deep in a mountain range.
+
+Rarest of all, elements of other fictions are known to have crossed over.
+Telamonian Ajax is a noted adventurer, most recently having quested into the
+Castle of the Flaming Skull to find a portal said to reside there.
+
+Despite all of this, life continues. The actual intrusions are rather settled
+and normal. They are more like going to another country than going to another
+world. People live their lives as they always have. Some transplants yearn for
+home, but in the same way you might yearn for old friends after moving to a new
+place. This is a world that is garish and colorful with odd congruences
+everywhere.
+
+The problems are what they always are when things change: the greedy, powerful,
+and hateful have used this opportunity to further their own agendas. Nature has
+been tampered with and harmed. People and places have been exploited by those
+who do not care.
+
+The player characters are those who would set to solve problems, to help the
+helpless, to build stength from discord. They set out with spell, prayer,
+blade, and song to test themselves against the powerful and unjust. Some
+adventure because it is right, some adventure because it is hard, but all will
+find a world that is not short on dangerous places and powerful enemies.
+
 ## Getting Started
 
 Each player chooses a playbook. The currently available playbooks are:
