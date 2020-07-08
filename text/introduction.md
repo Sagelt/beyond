@@ -62,12 +62,13 @@ assume this is _Dungeon_ World except that…
   abilities on that specific move.
 * There are no debilities. Instead there are conditions on each move. Each
   works differently.
-* There is no end of session XP. Instead each playbook has its own XP criteria
-  which you mark as you do those things.
+* There can be multiple player characters of each class.
+* There is no end of session move. Instead each playbook has its own XP
+  instructions for end of session.
 * There are no moves for being an elf, dwarf, or whatever sentient creature.
   Being an elf, dwarf, or human is just your form, noted on your character
   sheet.
-* The core moves are called Adventurer moves and each playbook has their own
+* The core moves are called adventurer moves and each playbook has their own
   copy of them. The base moves are the same, but each playbook has different
   abilities and conditions for them.
 * Bonds now change categories of success (from 6- to 7-9 and from 7-9 to 10+).
@@ -88,6 +89,19 @@ assume this is _Dungeon_ World except that…
   current situation. Their damage is equal to that die, their HP is equal to
   the number of sides on that die, and their armor is equal to the number of
   sides divided by 4 (round down).
+* The GM's structure is no longer Fronts.
+* The world is a more specific kind of fantasy, a collision of worlds and ages.
+* Hirelings, steadings, and many of the more narrow special moves are gone.
+
+Other than that, some bits of _Dungeon World_ (or in some cases _Apoclypse
+World_) remain the same:
+
+* Rolls are 2d6. On a 7+ the move says what happens. On a 6- the GM says what
+  happens (and you probably won't like it) unless the move specifically calls
+  out otherwise.
+* Damage is specified by class, not by weapon
+* You have HP. You lose it when you take damage. If you get to 0 you take your
+  last breath.
 
 ## Getting Started
 
