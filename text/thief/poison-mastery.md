@@ -38,3 +38,4 @@ more of a poison you have mastered. Roll+1. On a 7+ you create 3 doses. On a
 * [ ][ ][ ][ ][ ][ ][ ] Innovation: Design a new poison. You have mastery for
   it. You may choose an extra effect, an extra method, or no traces, your
   choice. Then erase all advancement from this ability.
+  

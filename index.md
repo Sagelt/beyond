@@ -1193,7 +1193,11 @@ poison. You have mastery for it. Then erase all advancement from this
 ability. \* \[ \]\[ \]\[ \]\[ \]\[ \]\[ \]\[ \] Innovation: Design a new
 poison. You have mastery for it. You may choose an extra effect, an
 extra method, or no traces, your choice. Then erase all advancement from
-this ability. \# The Wizard You have all the Adventurer Moves.
+this ability.
+
+# The Wizard
+
+You have all the Adventurer Moves.
 
 Choose three class moves to start with from among your themes. Your
 themes are [Towermage](#--towermage), [Ritualist](#--ritualist), and
