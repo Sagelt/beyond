@@ -5,6 +5,7 @@ rootdir=`git rev-parse --show-toplevel`
 echo \
   $rootdir/text/introduction.md \
   $rootdir/text/rules.md \
+  $rootdir/text/gm.md \
   $rootdir/text/core-moves.md \
   $rootdir/text/cleric/cleric.md \
   $rootdir/text/cleric/divine-patronage.md \
