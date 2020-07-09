@@ -3,9 +3,9 @@ You have all the Adventurer Moves.
 
 Choose three class moves to start with from among your themes. Your themes are
 [Towermage](#--towermage), [Ritualist](#--ritualist), and
-[Warlock](#--warlock). You must take the first move in each theme before
-taking any below it. Indicate your move by marking it (put an x: (x) to show
-you have the move).
+[Warlock](#--warlock). You must take the first move in each theme before taking
+any below it. Indicate your move by marking it (put an x: (x) to show you have
+the move).
 
 When you roll a 6-, mark one of the advancement boxes [ ] below the move you
 rolled by adding an x (like this: [x]). When all the advancement boxes for an
@@ -17,6 +17,7 @@ any condition box < > for any move. That condition applies until a move or the
 GM tells you to remove a condition.
 
 ## Look
+
 * Wild eyes, wise eyes, burning eyes
 * Scrawny body, scarred body, twisted body, enchanted body
 * Bald, flowing hair, unnatural hair, styled hair
@@ -25,6 +26,7 @@ GM tells you to remove a condition.
 ## Adventurer Moves
 
 ### Defy Danger
+
 When you act despite an imminent threat or suffer a calamity, say how you deal
 with it and roll+0. On a 10+, you do what you set out to, the threat doesn’t
 come to bear. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you
@@ -45,6 +47,7 @@ a worse outcome, hard bargain, or ugly choice.
 * < > Shaken: -1
 
 ### Spout Lore
+
 When you consult your accumulated knowledge about something, roll+1. On a 10+,
 the GM will tell you something interesting and useful about the subject
 relevant to your situation. On a 7–9, the GM will only tell you something
@@ -88,6 +91,7 @@ when acting on the answers.
 * < > Disoriented: -1
 
 ### Parley
+
 When you have leverage on a GM Character and push them to do what you want,
 roll+0. On a 10+, they do what you ask if you first promise what they ask of
 you. On a 7–9, they will do what you ask, but need some concrete assurance of
@@ -106,6 +110,7 @@ your promise, right now.
   disconcerting or distracting, take -1.
 
 ### Hack and Slash
+
 When you engage an enemy in melee, roll-1. On a 10+, you deal your damage to
 the enemy and avoid their attack. At your option, you may choose to do +1d6
 damage but expose yourself to the enemy’s attack. On a 7–9, you deal your
@@ -124,6 +129,7 @@ damage to the enemy and the enemy makes an attack against you.
   results).
 
 ### Volley
+
 When you take aim and shoot at an enemy at range, roll+0. On a 10+, you have a
 clear shot—deal your damage. On a 7–9, choose one (whichever you choose you
 deal your damage):
@@ -216,27 +222,34 @@ suspended and you gain a reserve die up to your maximum.
 
 ## Bonds
 
-Choose a bond. When your bond applies to a roll you make you or the target of
-the bond may increase the result of a roll by one category (6- to 7-9, 7-9 to
-10+) and mark a bond advancement. When all advancements are marked choose a new
-bond in place of the one that you completed (but keep the ability).
+You start with two bonds from the list. Roll 1d10+20 for each. When you resolve
+a bond you can mark XP or choose a bond move.
 
-* ( ) There is a power in _______ that I want to understand.
-  * [ ][ ][ ][ ][ ] Expanded Horizons: You may also take moves from ______’s
-    class
-* ( ) I believe an ancient prophecy is about _______ and I must protect them.
-  * [ ][ ][ ][ ][ ] Prophetic Visions: When you discern realities you may also
-    ask “What will happen if ________ does _________?”
-* ( ) ________ can learn much from me, I must teach them
-  * [ ][ ][ ][ ][ ] Mystical Mentorship: You can always tell the direction and
-    distance to __________
+## ( ) Expanded Horizons
+
+You may also take moves from ______’s class
+
+## ( ) Prophetic Visions
+
+When you discern realities you may also ask “What will happen if ________ does
+_________?”
+
+## ( ) Mystical Mentorship
+
+You can always tell the direction and distance to __________
+
+## ( ) Friendship Is Magic
+
+Gain a new bond (three total).
 
 ## Stats
+
 * 4 HP
 * 1d4 damage
 * 2d6 reserves
 
 ## XP
+
 At the end of each session mark those that you did that session. When you have
 time to train in safety, if you have marked your level + 3 XP, erase all XP and
 gain a level (each mark counts separately).
@@ -247,15 +260,19 @@ gain a level (each mark counts separately).
 * [ ][ ][ ] Aid someone in need
 * [ ][ ] Craft a new magic item or develop a new spell
 * [ ][ ] Achieve a goal
+* [ ][ ][ ] Resolve a bond
 
 ## Allegiance
+
 Choose an allegiance to start with: Change, The Blue Order, Power
 
 ## Goal
+
 The GM will give your party a starting goal. When you accomplish that, set a
 new goal in collaboration with the other players.
 
 ## Gear
+
 * A handheld melee weapon: ___________
 * A magical trinket: ____________
 * A scrap of lore: ____________

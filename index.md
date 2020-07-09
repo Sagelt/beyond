@@ -153,9 +153,10 @@ the game: you can just assume this is *Dungeon World* except that...
 -   The core moves are called adventurer moves and each class has their
     own copy of them. The base moves are the same, but each class has
     different abilities and conditions for them.
--   Bonds now change categories of success (from 6- to 7-9 and from 7-9
-    to 10+). Each time you use the bond you mark advancement on it until
-    you retire the bond and gain its ability.
+-   Bonds are now rolled randomly. Each bond can be used three times
+    (once to gain a reserve die, once to improve a roll, and once to
+    downgrade a roll) then it is resolved. Resolved bonds grant XP *or*
+    special bond moves.
 -   Each character has reserve dice. Reserve dice can be added to any
     roll. If a reserve die is added to a roll you add the number rolled
     on the reserve die to the total. When you have time to rest and
@@ -1975,3 +1976,20 @@ will not answer another desparate plea.
 29. I studied alongside \_\_\_\_\_\_\_ for a time, now I will prove to
     them I made the right choice by pursuing magic.
 30. \_\_\_\_\_\_\_ is what I wish to be, I will impress them.
+31. \_\_\_\_\_\_\_ had my back when things went wrong, so I will have
+    theirs.
+32. \_\_\_\_\_\_\_ gave me my first blade, I will show them I can use it
+    well.
+33. I stole from \_\_\_\_\_\_\_ and now I regret it, I will repay them
+    and more.
+34. I grew up on the streets with \_\_\_\_\_\_\_, I will show them who I
+    have become.
+35. \_\_\_\_\_\_\_ gave me a better life, I owe them.
+36. \_\_\_\_\_\_\_ covered for me, I will do the same.
+37. \_\_\_\_\_\_\_ believed me when no one else did, I will fight for
+    them.
+38. \_\_\_\_\_\_\_ has brought me tokens from far away, I will repay
+    them.
+39. I was jailed with \_\_\_\_\_\_\_ but they got us out, I owe them.
+40. \_\_\_\_\_\_\_ and I worked together long ago, I will show them I
+    have changed.

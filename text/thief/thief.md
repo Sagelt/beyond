@@ -26,6 +26,7 @@ GM tells you to remove a condition.
 ## Adventurer Moves
 
 ### Defy Danger
+
 When you act despite an imminent threat or suffer a calamity, say how you deal
 with it and roll+1. On a 10+, you do what you set out to, the threat doesn’t
 come to bear. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you
@@ -46,6 +47,7 @@ a worse outcome, hard bargain, or ugly choice.
 * < > Shaken: -1
 
 ### Spout Lore
+
 When you consult your accumulated knowledge about something, roll+1. On a 10+,
 the GM will tell you something interesting and useful about the subject
 relevant to your situation. On a 7–9, the GM will only tell you something
@@ -86,6 +88,7 @@ when acting on the answers.
 * < > Disoriented: -1
 
 ### Parley
+
 When you have leverage on a GM Character and push them to do what you want,
 roll+1. On a 10+, they do what you ask if you first promise what they ask of
 you. On a 7–9, they will do what you ask, but need some concrete assurance of
@@ -97,6 +100,7 @@ your promise, right now.
   taste take +1
 
 ### Hack and Slash
+
 When you engage an enemy in melee, roll+0. On a 10+, you deal your damage to
 the enemy and avoid their attack. At your option, you may choose to do +1d6
 damage but expose yourself to the enemy’s attack. On a 7–9, you deal your
@@ -112,6 +116,7 @@ damage to the enemy and the enemy makes an attack against you.
 * < > Vulnerable: You take +1d4 damage when taking damage from hack and slash.
 
 ### Volley
+
 When you take aim and shoot at an enemy at range, roll+1. On a 10+, you have a
 clear shot—deal your damage. On a 7–9, choose one (whichever you choose you
 deal your damage):
@@ -134,18 +139,22 @@ deal your damage):
 You have a _[poison mastery](#poison-mastery)_.
 
 #### ( ) Disguise
+
 When you have time and materials you can create a disguise that will fool
 anyone into thinking you’re another creature of about the same size and shape.
 Your actions can give you away but your appearance won’t.
 
 #### ( ) Retribution
+
 When you are dealth damage in melee you may apply a dose of any applied poison
 to your attacker.
 
 #### ( ) Iron Stomach
+
 You are immune to all ingested poisons you have mastered.
 
 ### ( ) Ambusher
+
 When you attack a surprised or defenseless enemy with a melee weapon, you can
 choose to deal your damage or roll+2. On a 10+ choose two. On a 7–9 choose one.
 
@@ -211,23 +220,26 @@ need, roll+1. On a 10+, someone has it, just for you. On a 7–9, you’ll have 
 settle for something close or it comes with strings attached, your call.
 
 #### ( ) Hardened
+
 +3 maximum HP.
 
 ## Bonds
 
-Choose a bond. When your bond applies to a roll you make you or the target of
-the bond may increase the result of a roll by one category (6- to 7-9, 7-9 to
-10+) and mark a bond advancement. When all advancements are marked choose a new
-bond in place of the one that you completed (but keep the ability).
+You start with three bonds from the list. Roll 1d10+30 for each. When you
+resolve a bond you can mark XP or choose a bond move.
 
-* ( ) ________ and I have a con running.
-  * [ ][ ][ ][ ][ ] Expanded Horizons: You may also take moves from ______’s
-    class
-* ( ) _______ shares my secret, I must keep them safe.
-  * [ ][ ][ ][ ][ ] Blood Bond: At the end of any session where ________ did
-    not take significant harm you may mark any XP box.
-* ( ) ________ has my back when things go wrong, so I have theirs.
-  * [ ][ ][ ][ ][ ] Bonded: You may give your reserve dice to __________.
+### ( ) Expanded Horizons
+
+You may also take moves from ______’s class
+
+### ( ) Blood Bond
+
+At the end of any session where ________ did not take significant harm you may
+mark any XP box.
+
+### ( ) Bonded
+
+You may give your reserve dice to __________.
 
 ## Stats
 
@@ -247,6 +259,7 @@ gain a level (each mark counts separately).
 * [ ][ ][ ] Aid someone in need
 * [ ][ ] Make a daring escape
 * [ ][ ] Achieve a goal
+* [ ][ ][ ] Resolve a bond
 
 ## Allegiance
 

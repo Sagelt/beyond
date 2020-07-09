@@ -1,10 +1,10 @@
-## Rules
+# Rules
 
 This is an abbreviated overview of the rules that attempts to just hit on the
 high points to setup playtesting. If something is not covered here, make a best
 guess and ask when you get a chance, I'll be happy to expand.
 
-### Moves
+## Moves
 
 The rules of _Beyond_ are broken up into **moves.** Each move says when it
 happens and what it does. If a move has you roll the dice, the move will say
@@ -47,7 +47,7 @@ poor choices. Each condition says how it modifies the move it is part of.
 Conditions are only removed as part of making camp or through certain magical
 means.
 
-### Dice
+## Dice
 
 Many moves say **roll**, which means roll 2 six-sided dice. The move may say to
 add or subtract something to the roll (either a fixed bonus or something
@@ -78,7 +78,7 @@ twice and take the lower result. If they are using a weapon that is especially
 well-crafted or well-suited for the attack they are making they roll twice and
 take the higher result.
 
-### Damage, Armor, And HP
+## Damage, Armor, And HP
 
 Living things in _Beyond_ have **HP** which indicates how much damage they can
 take before facing Death. Something with its maximum HP is unharmed, something
@@ -104,7 +104,7 @@ Some damage **ignores armor** entirely, or ignores a specific amount of armor.
 This might be because the harm is too broad for armor to be useful (a falling
 boulder) or because the attack bypasses the armor.
 
-### Character Change
+## Character Change
 
 Characters grow and change through **abilities** and **levels**. Abilities are
 gained through **advancement** on a specific move—each time a 6- is rolled on
@@ -126,3 +126,36 @@ When a player character has time, safety, and XP equal to their current level
 
 HP, reserve dice, damage dice, and move bonuses do not change when leveling up
 unless the move the player chose during leveling up says so.
+
+## Bonds
+
+Bonds tie the characters to each other directly. Each bond is a statement about
+a positive relationship between the characters which drives action. When
+creating characters bonds are rolled randomly. For each rolled bond the player
+chooses another player character as the target of that bond and asks the player
+of that character if they're okay with that bond. If not the player can choose
+another target for the bond or the GM can provide an NPC for that bond.
+
+Bonds drive player characters to push themselves, but can also be a
+distraction. Each bond has three uses and can be used for each once:
+
+* Gain a reserve die when the target of the bond shows appreciation or
+  reciprication
+* Increase the category of success for a roll where the target of the bond is
+  effected in a way that relates to the bond
+* Decrease the category of success for a roll where the target of the bond is
+  effected in a way that relates to the bond
+
+Once a bond has been used for all three it is uses it is resolved. When a bond
+is resolved the player can choose one:
+
+* Mark XP for resolving a bond
+* Gain a new bond move
+
+If the player chooses a bond move the blank in the bond move (if there is one)
+must be filled with the same character who the resolved bond was with.
+
+After a bond is resolved the player chooses a new bond to replace it. They can
+either write a new bond of their own, roll for one, or choose one from the
+list. The new bond can be with anyone: the same character, a different player
+character, or a different NPC.

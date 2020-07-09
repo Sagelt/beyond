@@ -2,11 +2,9 @@
 You have all the Adventurer Moves and Deity.
 
 Choose three class moves to start with from among your themes. Your themes are
-[Caster](#--caster), [Protector](#--protector), and [Prophet](#--prophet). You must
-take
-the first move in each theme
-before taking any below it. Indicate your move by marking it (put an x: (x) to
-show you have the move).
+[Caster](#--caster), [Protector](#--protector), and [Prophet](#--prophet). You
+must take the first move in each theme before taking any below it. Indicate
+your move by marking it (put an x: (x) to show you have the move).
 
 When you roll a 6-, mark one of the advancement boxes [ ] below the move you
 rolled by adding an x (like this: [x]). When all the advancement boxes for an
@@ -222,34 +220,41 @@ When you petition your deity according to the precept of your religion, your
 deity tells you what it would have you do. Take +1 when pursuing that action.
 
 #### ( ) Faithful
+
 +1 reserve die
 
 #### ( ) Apotheosis
+
 The first time you spend time in prayer as appropriate to your god after taking
 this move, choose a feature associated with your deity (rending claws, wings of
 sapphire feathers, an all-seeing third eye, etc.). When you emerge from prayer,
 you permanently gain that physical feature.
 
 ## Bonds
-Choose a bond. When your bond applies to a roll you make you or the target of
-the bond may increase the result of a roll by one category (6- to 7-9, 7-9 to
-10+) and mark a bond advancement. When all advancements are marked choose a new
-bond in place of the one that you completed (but keep the ability).
-* ( ) The gods have an interest in  _______, I must find out why.
- * [ ][ ][ ][ ][ ] Visions: The gods will send you visions if ______ is in
-   danger.
-* ( ) _______ is in danger but I will keep them safe.
-  * [ ][ ][ ][ ][ ] The Gods’ Work: You may give your reserve dice to _______.
-* ( ) ________’s faith is strange to me, I can learn much from them
-  * [ ][ ][ ][ ][ ] Expanded Horizons: You may also take moves from ______’s
-    class
+
+You start with three bonds from the list. Roll 1d10+10 for each. When you
+resolve a bond you can mark XP or choose a bond move.
+
+### ( ) Visions
+
+The gods will send you visions if ______ is in danger.
+
+### ( ) The Gods’ Work
+
+You may give your reserve dice to _______.
+
+### ( ) Expanded Horizons
+
+You may also take moves from ______’s class
 
 ## Stats
+
 * 8 HP
 * 1d6 damage
 * 2d6 reserves
 
 ## XP
+
 At the end of each session mark those that you did that session. When you have
 time to train in safety, if you have marked your level + 3 XP, erase all XP and
 gain a level (each mark counts separately).
@@ -260,16 +265,20 @@ gain a level (each mark counts separately).
 * [ ][ ][ ] Aid someone in need on behalf of the gods
 * [ ][ ] Put your deity before yourself
 * [ ][ ] Achieve a goal
+* [ ][ ][ ] Resolve a bond
 
 ## Allegiance
+
 Choose an allegiance to start with: Common Folk, The Lowlands Church, The
 Royalty
 
 ## Goal
+
 The GM will give your party a starting goal. When you accomplish that, set a
 new goal in collaboration with the other players.
 
 ## Gear
+
 * A blunt melee weapon: ___________
 * A holy symbol: ____________
 * A sign of faith: ____________

@@ -135,9 +135,9 @@ assume this is _Dungeon World_ except that…
 * The core moves are called adventurer moves and each class has their own copy
   of them. The base moves are the same, but each class has different abilities
   and conditions for them.
-* Bonds now change categories of success (from 6- to 7-9 and from 7-9 to 10+).
-  Each time you use the bond you mark advancement on it until you retire the
-  bond and gain its ability.
+* Bonds are now rolled randomly. Each bond can be used three times (once to
+  gain a reserve die, once to improve a roll, and once to downgrade a roll)
+  then it is resolved. Resolved bonds grant XP _or_ special bond moves.
 * Each character has reserve dice. Reserve dice can be added to any roll. If a
   reserve die is added to a roll you add the number rolled on the reserve die
   to the total. When you have time to rest and recover you roll all your

@@ -17,6 +17,7 @@ any condition box < > for any move. That condition applies until a move or the
 GM tells you to remove a condition.
 
 ## Look
+
 * Steely eyes, fierce eyes, caring eyes
 * Lithe body, ravaged body, brawny body, bulky body
 * Bald, flowing hair, wild hair, styled hair
@@ -25,6 +26,7 @@ GM tells you to remove a condition.
 ## Adventurer Moves
 
 ### Defy Danger
+
 When you act despite an imminent threat or suffer a calamity, say how you deal
 with it and roll+1. On a 10+, you do what you set out to, the threat doesn’t
 come to bear. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you
@@ -42,6 +44,7 @@ a worse outcome, hard bargain, or ugly choice.
 * < > Shaken: -1
 
 ### Spout Lore
+
 When you consult your accumulated knowledge about something, roll+0. On a 10+,
 the GM will tell you something interesting and useful about the subject
 relevant to your situation. On a 7–9, the GM will only tell you something
@@ -78,6 +81,7 @@ when acting on the answers.
 * < > Disoriented: -1
 
 ### Parley
+
 When you have leverage on a GM Character and push them to do what you want,
 roll+0. On a 10+, they do what you ask if you first promise what they ask of
 you. On a 7–9, they will do what you ask, but need some concrete assurance of
@@ -95,6 +99,7 @@ your promise, right now.
 * < > Fed Up: You're done with this, take -1.
 
 ### Hack and Slash
+
 When you engage an enemy in melee, roll+2. On a 10+, you deal your damage to
 the enemy and avoid their attack. At your option, you may choose to do +1d6
 damage but expose yourself to the enemy’s attack. On a 7–9, you deal your
@@ -113,6 +118,7 @@ damage to the enemy and the enemy makes an attack against you.
 * < > Off Balance: You may not choose to deal extra damage on a 10+.
 
 ### Volley
+
 When you take aim and shoot at an enemy at range, roll+1. On a 10+, you have a
 clear shot—deal your damage. On a 7–9, choose one (whichever you choose you
 deal your damage):
@@ -203,18 +209,20 @@ reduction leaves the item with 0 armor it is destroyed.
 
 ## Bonds
 
-Choose a bond. When your bond applies to a roll you make you or the target of
-the bond may increase the result of a roll by one category (6- to 7-9, 7-9 to
-10+) and mark a bond advancement. When all advancements are marked choose a new
-bond in place of the one that you completed (but keep the ability).
+You start with three bonds from the list. Roll 1d10 for each. When you resolve
+a bond you can mark XP or choose a bond move.
 
-* ( ) ________ appears weak, but there's much I can learn from them.
-  * [ ][ ][ ][ ][ ] Expanded Horizons: You may also take moves from ______’s
-    class
-* ( ) I owe my life to _______, I will pay them back.
-  * [ ][ ][ ][ ][ ] Death's Friend: Take +1 to last breath rolls.
-* ( ) I worry about ________, I will protect them.
-  * [ ][ ][ ][ ][ ] Bonded: You may give your reserve dice to __________.
+### ( ) Expanded Horizons
+
+You may also take moves from ______’s class
+
+### ( ) Death's Friend
+
+Take +1 to last breath rolls.
+
+### ( ) Bonded
+
+You may give your reserve dice to __________.
 
 ## Stats
 
@@ -234,6 +242,7 @@ gain a level (each mark counts separately).
 * [ ][ ][ ] Aid someone in need
 * [ ][ ] Lead a charge into battle
 * [ ][ ] Achieve a goal
+* [ ][ ][ ] Resolve a bond
 
 ## Allegiance
 

@@ -15,3 +15,4 @@ echo \
   $rootdir/text/wizard/wizard.md \
   $rootdir/text/wizard/spellbook.md \
   $rootdir/text/wizard/mystic_patron.md \
+  $rootdir/text/bonds.md \
