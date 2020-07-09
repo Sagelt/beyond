@@ -284,3 +284,26 @@ taken. If the damage is reduced to 0 no HP is lost.
 Some damage **ignores armor** entirely, or ignores a specific amount of armor.
 This might be because the harm is too broad for armor to be useful (a falling
 boulder) or because the attack bypasses the armor.
+
+### Character Change
+
+Characters grow and change through **abilities** and **levels**. Abilities are
+gained through **advancement** on a specific move—each time a 6- is rolled on
+that move an advancement box is filled and once all advancements for an ability
+are filled the ability is gained.
+
+Levels are gained through **XP**. Player characters start at 1st level. At the
+end of each session each player reviews the XP conditions for their class and
+checks each one that they did that session. Each checked XP condition box is
+one XP.
+
+When a player character has time, safety, and XP equal to their current level
++3 they gain a level. When gaining a level they:
+
+* Increase their level by 1.
+* Choose a new move from their class. The first move in a theme must be taken
+  before any others in that theme.
+* Erase all XP.
+
+HP, reserve dice, damage dice, and move bonuses do not change when leveling up
+unless the move the player chose during leveling up says so.
