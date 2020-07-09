@@ -1,4 +1,5 @@
 # The Wizard
+
 You have all the Adventurer Moves.
 
 Choose three class moves to start with from among your themes. Your themes are
@@ -207,13 +208,13 @@ Gain a _[mystic patron](#mystic-patron)_.
 
 #### ( ) Grit
 
-+1 reserve die
++1 reserve die.
 
 #### ( ) Magic Eater
 
-When you absorb a magical effect, roll+1. On a 10+ the effect ends and you gain
-a reserve die (even over your maximum). On a 7-9 the effect is temporarily
-suspended and you gain a reserve die up to your maximum.
+When you absorb a magical effect, roll+bonds with your patron. On a 10+ the
+effect ends and you gain a reserve die (even over your maximum). On a 7-9 the 
+effect is temporarily suspended and you gain a reserve die up to your maximum.
 
 **Abilities**
 
