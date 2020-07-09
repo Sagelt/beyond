@@ -159,3 +159,28 @@ After a bond is resolved the player chooses a new bond to replace it. They can
 either write a new bond of their own, roll for one, or choose one from the
 list. The new bond can be with anyone: the same character, a different player
 character, or a different NPC.
+
+## Goals
+
+While bonds tie the characters to each other **goals** tie them together as a
+group. The player characters are a party that shares a goal. That goal may be
+short term and self-serving (delivering a package across the fire swamp to earn
+a living) or long term and selfless (removing the demon incursion from The
+Reach) or anything in between. The important aspects of a goal are that:
+
+* The goal matters to all the characters in the party
+* Everyone at the table (including the GM) is interested in the goal
+* The goal is achievable but not trivial
+
+For the first session the GM will provide a starting goal. As long as everyone
+is interested in that goal it stands and drives the first session. If anyone
+isn't interested in the goal for any reason revise it as a group until everyone
+is interested. If possible it's a good idea for the GM to share the starting
+goal ahead of the first session so everyone can review it ahead of sitting down
+to play.
+
+Accomplishing goals earns XP for the player characters. When a goal has been
+accomplished everyone marks the appropriate XP and then writes a new goal
+together.
+
+Goals also help the GM plan adventures and adversaries. More on that later.
