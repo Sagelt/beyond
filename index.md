@@ -63,64 +63,6 @@ moves or classes but it won't alter existing moves, classes, or
 mechanics in an incompatible way. You should be able to move between
 builds for the same minor version on the fly.
 
-## Quick Start Guide From Dungeon World
-
-*Beyond* is based on *Dungeon World*, but it isn't a new edition of that
-game. It considerably shifts the mechanics, procedures, and setting.
-Since this is a playtest and is incomplete this section helps fill in
-the game: you can just assume this is *Dungeon* World except that...
-
--   There are no stats. Each move has its own bonus which advances on
-    its own.
--   Rolling a 6- doesn't grant XP. Instead it grants advancement towards
-    abilities on that specific move.
--   There are no debilities. Instead there are conditions on each move.
-    Each works differently.
--   There can be multiple player characters of each class.
--   There is no end of session move. Instead each class has its own XP
-    instructions for end of session.
--   There are no moves for being an elf, dwarf, or whatever sentient
-    creature. Being an elf, dwarf, or human is just your form, noted on
-    your character sheet.
--   The core moves are called adventurer moves and each class has their
-    own copy of them. The base moves are the same, but each class has
-    different abilities and conditions for them.
--   Bonds now change categories of success (from 6- to 7-9 and from 7-9
-    to 10+). Each time you use the bond you mark advancement on it until
-    you retire the bond and gain its ability.
--   Each character has reserve dice. Reserve dice can be added to any
-    roll. If a reserve die is added to a roll you add the number rolled
-    on the reserve die to the total. When you have time to rest and
-    recover you roll all your remaining reserve dice and gain HP equal
-    to the total (up to your max), then refill your reserve dice to your
-    starting amount.
--   Alignment is replaced by allegiance. Allegiance can be to a big
-    concept, like Good, or to a specific group, entity, or ideal.
--   All the player characters share a goal. The first goal is provided
-    by the GM to kick off the game. Once that goal is completed the
-    party writes a new one, but they have to agree on it. The goal is
-    what unites this group of people beyond their direct bonds to one
-    another.
--   Monsters are represented by a single die indicating their strength
-    in the current situation. Their damage is equal to that die, their
-    HP is equal to the number of sides on that die, and their armor is
-    equal to the number of sides divided by 4 (round down).
--   The GM's structure is no longer Fronts.
--   The world is a more specific kind of fantasy, a collision of worlds
-    and ages.
--   Hirelings, steadings, and many of the more narrow special moves are
-    gone.
-
-Other than that, some bits of *Dungeon World* (or in some cases
-*Apocalypse World*) remain the same:
-
--   Rolls are 2d6. On a 7+ the move says what happens. On a 6- the GM
-    says what happens (and you probably won't like it) unless the move
-    specifically calls out otherwise.
--   Damage is specified by class, not by weapon
--   You have HP. You lose it when you take damage. If you get to 0 you
-    take your last breath.
-
 ## The World of Beyond
 
 This is a world of collisions. Magic, technology, and myth all live side
@@ -188,6 +130,64 @@ prayer, blade, and song to test themselves against the powerful and
 unjust. Some adventure because it is right, some adventure because it is
 hard, but all will find a world that is not short on dangerous places
 and powerful enemies.
+
+## Quick Start Guide From Dungeon World
+
+*Beyond* is based on *Dungeon World*, but it isn't a new edition of that
+game. It considerably shifts the mechanics, procedures, and setting.
+Since this is a playtest and is incomplete this section helps fill in
+the game: you can just assume this is *Dungeon* World except that...
+
+-   There are no stats. Each move has its own bonus which advances on
+    its own.
+-   Rolling a 6- doesn't grant XP. Instead it grants advancement towards
+    abilities on that specific move.
+-   There are no debilities. Instead there are conditions on each move.
+    Each works differently.
+-   There can be multiple player characters of each class.
+-   There is no end of session move. Instead each class has its own XP
+    instructions for end of session.
+-   There are no moves for being an elf, dwarf, or whatever sentient
+    creature. Being an elf, dwarf, or human is just your form, noted on
+    your character sheet.
+-   The core moves are called adventurer moves and each class has their
+    own copy of them. The base moves are the same, but each class has
+    different abilities and conditions for them.
+-   Bonds now change categories of success (from 6- to 7-9 and from 7-9
+    to 10+). Each time you use the bond you mark advancement on it until
+    you retire the bond and gain its ability.
+-   Each character has reserve dice. Reserve dice can be added to any
+    roll. If a reserve die is added to a roll you add the number rolled
+    on the reserve die to the total. When you have time to rest and
+    recover you roll all your remaining reserve dice and gain HP equal
+    to the total (up to your max), then refill your reserve dice to your
+    starting amount.
+-   Alignment is replaced by allegiance. Allegiance can be to a big
+    concept, like Good, or to a specific group, entity, or ideal.
+-   All the player characters share a goal. The first goal is provided
+    by the GM to kick off the game. Once that goal is completed the
+    party writes a new one, but they have to agree on it. The goal is
+    what unites this group of people beyond their direct bonds to one
+    another.
+-   Monsters are represented by a single die indicating their strength
+    in the current situation. Their damage is equal to that die, their
+    HP is equal to the number of sides on that die, and their armor is
+    equal to the number of sides divided by 4 (round down).
+-   The GM's structure is no longer Fronts.
+-   The world is a more specific kind of fantasy, a collision of worlds
+    and ages.
+-   Hirelings, steadings, and many of the more narrow special moves are
+    gone.
+
+Other than that, some bits of *Dungeon World* (or in some cases
+*Apocalypse World*) remain the same:
+
+-   Rolls are 2d6. On a 7+ the move says what happens. On a 6- the GM
+    says what happens (and you probably won't like it) unless the move
+    specifically calls out otherwise.
+-   Damage is specified by class, not by weapon
+-   You have HP. You lose it when you take damage. If you get to 0 you
+    take your last breath.
 
 ## Getting Started
 
