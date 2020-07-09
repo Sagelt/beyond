@@ -205,3 +205,40 @@ truthfully state their characters' allegiance.
 Characters may have affiliations with many organizations and dedications to
 many ideals, but their allegiance is their guiding principle and a part of
 their identity.
+
+## Gear
+
+Gear is the equipment the player characters carry. Some gear is significant in
+itself and is listed indivudally, the rest of the miscellaneous stuff the
+characters carry is called **supplies**. The amount of supplies each class
+starts with is the amount they can carry in one slot.
+
+The gear section of each class lists starting gear as well as how many
+additional slots to carry gear the class has. Anything significant enough to be
+tracked as an individual item takes up a slot. Anything that's insignificant
+but maybe still useful can be used as 1 supply.
+
+Supplies include food, rope, grapples, spikes, blankets, flasks, water, or
+anything else that might be part of a typical camping kit.
+
+When adventurers make camp they use up 1 supply (eating, drinking, making the
+camp site safe and hospitable). If they do not have enough supplies they do not
+recover as usual in camp and instead gain a condition.
+
+Adventurers can also use their supplies as a store of useful items. At any time
+an adventurer can mark off one supply to grab a useful item from their pack
+that would reasonably be part of their kit.
+
+## Coin & The Economy
+
+Money is tracked in coin. Coin is the various currencies that circulate between
+the various kingdoms, wildlands, and autonomous areas of _Beyond._
+
+Coin is not king in _Beyond._ While most folk will accept coin, they will do so
+grudginly as coin's only guaranteed use is paying it back to whomever claims to
+govern you in taxes. Useful materials or goods, food, art, or favors are all
+more directly fungible to most sentient beings.
+
+There will eventually be a section of sample vendors listing what they accept
+and what they sell to make this easier for the GM, but it doesn't exist yet.
+Sorry!

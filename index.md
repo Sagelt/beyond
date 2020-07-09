@@ -425,6 +425,46 @@ Characters may have affiliations with many organizations and dedications
 to many ideals, but their allegiance is their guiding principle and a
 part of their identity.
 
+## Gear
+
+Gear is the equipment the player characters carry. Some gear is
+significant in itself and is listed indivudally, the rest of the
+miscellaneous stuff the characters carry is called **supplies**. The
+amount of supplies each class starts with is the amount they can carry
+in one slot.
+
+The gear section of each class lists starting gear as well as how many
+additional slots to carry gear the class has. Anything significant
+enough to be tracked as an individual item takes up a slot. Anything
+that's insignificant but maybe still useful can be used as 1 supply.
+
+Supplies include food, rope, grapples, spikes, blankets, flasks, water,
+or anything else that might be part of a typical camping kit.
+
+When adventurers make camp they use up 1 supply (eating, drinking,
+making the camp site safe and hospitable). If they do not have enough
+supplies they do not recover as usual in camp and instead gain a
+condition.
+
+Adventurers can also use their supplies as a store of useful items. At
+any time an adventurer can mark off one supply to grab a useful item
+from their pack that would reasonably be part of their kit.
+
+## Coin & The Economy
+
+Money is tracked in coin. Coin is the various currencies that circulate
+between the various kingdoms, wildlands, and autonomous areas of
+*Beyond.*
+
+Coin is not king in *Beyond.* While most folk will accept coin, they
+will do so grudginly as coin's only guaranteed use is paying it back to
+whomever claims to govern you in taxes. Useful materials or goods, food,
+art, or favors are all more directly fungible to most sentient beings.
+
+There will eventually be a section of sample vendors listing what they
+accept and what they sell to make this easier for the GM, but it doesn't
+exist yet. Sorry!
+
 # Core Moves
 
 ## Last Breath
@@ -764,11 +804,36 @@ set a new goal in collaboration with the other players.
 ## Gear
 
 -   A blunt melee weapon: \_\_\_\_\_\_\_\_\_\_\_
+
 -   A holy symbol: \_\_\_\_\_\_\_\_\_\_\_\_
+
 -   A sign of faith: \_\_\_\_\_\_\_\_\_\_\_\_
+
 -   2 armor of protective gear: \_\_\_\_\_\_\_\_\_\_
+
 -   Two healing potions (drink to recover a reserve dice)
+
 -   Supplies (5)
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
 
 # Divine Patronage
 
@@ -1139,11 +1204,40 @@ set a new goal in collaboration with the other players.
 ## Gear
 
 -   A powerful melee weapon: \_\_\_\_\_\_\_\_\_\_\_
+
 -   A reserve melee weapon: \_\_\_\_\_\_\_\_\_\_\_
+
 -   A typical ranged weapon: \_\_\_\_\_\_\_\_\_\_\_
+
 -   A memento mori: \_\_\_\_\_\_\_\_\_\_\_\_
+
 -   Two healing potions (drink to recover a reserve dice)
+
 -   Supplies (5)
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
 
 # Signature Weapon
 
@@ -1471,11 +1565,32 @@ set a new goal in collaboration with the other players.
 ## Gear
 
 -   A subtle melee weapon: \_\_\_\_\_\_\_\_\_\_\_
+
 -   A reserve melee weapon: \_\_\_\_\_\_\_\_\_\_\_
+
 -   A thrown ranged weapon: \_\_\_\_\_\_\_\_\_\_\_
+
 -   A memento mori: \_\_\_\_\_\_\_\_\_\_\_\_
+
 -   Two healing potions (drink to recover a reserve dice)
+
 -   Supplies (5)
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
 
 # Poison Mastery
 
@@ -1809,10 +1924,26 @@ set a new goal in collaboration with the other players.
 ## Gear
 
 -   A handheld melee weapon: \_\_\_\_\_\_\_\_\_\_\_
+
 -   A magical trinket: \_\_\_\_\_\_\_\_\_\_\_\_
+
 -   A scrap of lore: \_\_\_\_\_\_\_\_\_\_\_\_
+
 -   Two healing potions (drink to recover a reserve dice)
+
 -   Supplies (5)
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
+
+-   
+
+    ------------------------------------------------------------------------
 
 # Spellbook
 

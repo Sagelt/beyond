@@ -282,3 +282,7 @@ new goal in collaboration with the other players.
 * A memento mori: ____________
 * Two healing potions (drink to recover a reserve dice)
 * Supplies (5)
+* ___________
+* ___________
+* ___________
+* ___________
