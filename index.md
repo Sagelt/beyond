@@ -610,7 +610,7 @@ afar. They're clever like that.
     stand on up to 10 paces from you is sanctified making it anathema to
     undead. The effects of your turning are permanent on that ground.
 
-##### Conditions
+**Conditions**
 
 -   \< \> Marked By Death: The undead and spirits are drawn to you for
     revenge or salvation.
@@ -650,7 +650,7 @@ that action.
 
 #### ( ) Faithful
 
-+1 reserve die
++1 reserve die.
 
 #### ( ) Apotheosis
 

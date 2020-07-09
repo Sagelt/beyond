@@ -183,7 +183,8 @@ ways to harry you from afar. They’re clever like that.
   paces from you is sanctified making it anathema to undead. The effects of
   your turning are permanent on that ground.
 
-##### Conditions
+**Conditions**
+
 * < > Marked By Death: The undead and spirits are drawn to you for revenge or
   salvation.
 
@@ -221,7 +222,7 @@ deity tells you what it would have you do. Take +1 when pursuing that action.
 
 #### ( ) Faithful
 
-+1 reserve die
++1 reserve die.
 
 #### ( ) Apotheosis
 
