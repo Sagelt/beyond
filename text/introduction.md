@@ -1,4 +1,5 @@
 # Introduction
+
 The world is broken but that’s not the problem. A magical mishap collided the
 world with its own past, future, and a few parallel realities. A wizard’s tower
 sits atop a nuclear reactor drawing on that power the same way it had drawn on
