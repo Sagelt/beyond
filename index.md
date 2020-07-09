@@ -255,6 +255,41 @@ rolls or poor choices. Each condition says how it modifies the move it
 is part of. Conditions are only removed as part of making camp or
 through certain magical means.
 
+### Dice
+
+Many moves say **roll**, which means roll 2 six-sided dice. The move may
+say to add or subtract something to the roll (either a fixed bonus or
+something depending on the situation). Sum the values on both dice plus
+any modifiers to get a total. Each move may be different, but in
+general:
+
+-   A 10+ means it goes as well as could be hoped for.
+-   A 7-9 means a compromise or worst outcome. You may do what you set
+    out to but with a complication or achieve something less than what
+    you intended.
+-   A 6- means the GM says what happens (and you probably won't like
+    it).
+
+Most moves will have specific results for 10+ and 7-9 but none for a 6-.
+If a move doesn't specify what happens on a 6- that just means the GM
+will say what happens.
+
+Each player character also has **reserve dice**. Reserve dice are the
+character's pool of stamina and will that can push them further. After
+any 2d6 roll a player may decide to spend a reserve die to roll it and
+add it to the total. When a character makes camp they use any unspent
+reserve dice to recover HP and remove conditions, then refill their
+reserve dice to maximum. Each class says how many reserve dice it gets
+and how to gain more. Certain moves also give additional ways to gain or
+spend reserve dice.
+
+Each class has a **damage die**. When the character does damage with a
+weapon they roll their damage die and deal that much damage. If they are
+using an especially poor and ill-suited weapon to the attack they are
+making they roll twice and take the lower result. If they are using a
+weapon that is especially well-crafted or well-suited for the attack
+they are making they roll twice and take the higher result.
+
 # Core Moves
 
 ## Last Breath
