@@ -73,7 +73,7 @@ instead of bits and pieces and modernity in a fantasy realm it's small elements
 of fantasy on a modern city street.
 
 In all cases modern technology continues to work, but it works as magic instead
-of as technology. Sure, there's no reliably electricity, but somehow the winds
+of as technology. Sure, there's no reliable electricity, but somehow the winds
 of magic drive enough electrons around to keep things functioning (most of the
 time). There may not be gasoline for that pickup truck, but it turns out troll
 spit is just as flamable. In general any modern technology works as the same
@@ -119,7 +119,7 @@ find a world that is not short on dangerous places and powerful enemies.
 _Beyond_ is based on _Dungeon World_, but it isn’t a new edition of that game.
 It considerably shifts the mechanics, procedures, and setting. Since this is a
 playtest and is incomplete this section helps fill in the game:  you can just
-assume this is _Dungeon_ World except that…
+assume this is _Dungeon World_ except that…
 
 * There are no stats. Each move has its own bonus which advances on its own.
 * Rolling a 6- doesn’t grant XP. Instead it grants advancement towards
@@ -199,7 +199,7 @@ There are four main categories of moves:
   They cover basic parts of life as an adventurer. They apply to everyone. You
   can use one copy of these and pass them around.
 * **Adventurer Moves** are the things adventurers do the most, like avoid an
-  impending disaster or try to find our what's really going on. Each character
+  impending disaster or try to find out what's really going on. Each character
   has them, but each class has different options for how those moves change
   over time. Adventurer moves are printed on each class's character sheet.
 * **Class Moves** are specific to each class. They describe things that are
@@ -223,7 +223,7 @@ Abilities are cumulative. For example, a thief has roll+1 to defy danger as
 well as abilities that give +1 and +1 against magical effects. A thief with
 both of these abilities would roll at +3 against magical effects.
 
-**Conditions** are hinderances to moves that may occur due to failed rolls or
+**Conditions** are hindrances to moves that may occur due to failed rolls or
 poor choices. Each condition says how it modifies the move it is part of.
 Conditions are only removed as part of making camp or through certain magical
 means.
