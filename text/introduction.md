@@ -42,12 +42,12 @@ The yy portion is the minor version. Minor versions differ from each other in
 ways that are significant enough that you may have to update characters, choose
 different moves, etc. You don't necessarily have to migrate between each minor
 version, you can jump ahead several at a time, but you'll need to take some
-time to review the character playbooks in particular. Each minor version gets
+time to review the character classes in particular. Each minor version gets
 release notes mentioning significant changes.
 
 The zzzzzzzz portion is the build. Each build differs in mostly editing:
 rewordings, clarifications, typo corrections. A build may also add new moves or
-playbooks but it won't alter existing moves, playbooks, or mechanics in an
+classes but it won't alter existing moves, classes, or mechanics in an
 incompatible way. You should be able to move between builds for the same minor
 version on the fly.
 
@@ -64,13 +64,13 @@ assume this is _Dungeon_ World except that…
 * There are no debilities. Instead there are conditions on each move. Each
   works differently.
 * There can be multiple player characters of each class.
-* There is no end of session move. Instead each playbook has its own XP
+* There is no end of session move. Instead each class has its own XP
   instructions for end of session.
 * There are no moves for being an elf, dwarf, or whatever sentient creature.
   Being an elf, dwarf, or human is just your form, noted on your character
   sheet.
-* The core moves are called adventurer moves and each playbook has their own
-  copy of them. The base moves are the same, but each playbook has different
+* The core moves are called adventurer moves and each class has their own
+  copy of them. The base moves are the same, but each class has different
   abilities and conditions for them.
 * Bonds now change categories of success (from 6- to 7-9 and from 7-9 to 10+).
   Each time you use the bond you mark advancement on it until you retire the
@@ -169,7 +169,7 @@ find a world that is not short on dangerous places and powerful enemies.
 
 ## Getting Started
 
-Each player chooses a playbook. The currently available playbooks are:
+Each player chooses a class. The currently available class are:
 
 * [The Cleric](#the-cleric)
 * [The Fighter](#the-fighter)
