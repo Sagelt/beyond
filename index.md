@@ -290,6 +290,34 @@ making they roll twice and take the lower result. If they are using a
 weapon that is especially well-crafted or well-suited for the attack
 they are making they roll twice and take the higher result.
 
+### Damage, Armor, And HP
+
+Living things in *Beyond* have **HP** which indicates how much damage
+they can take before facing Death. Something with its maximum HP is
+unharmed, something at 0 HP is drawing a last breath. For player
+characters this means making the last breath move. For NPCs the GM will
+describe how they meet Death.
+
+Physical harm is measured in **damage**. When something takes damage it
+subtracts that amount from its current HP. For living thigns the amount
+of damage it causes is described by the class (for player characters) or
+GM rules (for NPCs). Damage from sources other than living things (like
+a rock slide or trap) is based on these options:
+
+-   d6 damage for things that are damaging but unlikely to be deadly on
+    their own
+-   2d6 damage for things that might outright kill the unprepared
+-   3d6 damage for things that might kill even the prepared
+-   4d6 damage for things that are very likely to kill
+
+**Armor** is damage mitigation from a shirt of chain, a shield, or scaly
+flesh. When a creature with armor takes damage it subtracts its armor
+from the damage taken. If the damage is reduced to 0 no HP is lost.
+
+Some damage **ignores armor** entirely, or ignores a specific amount of
+armor. This might be because the harm is too broad for armor to be
+useful (a falling boulder) or because the attack bypasses the armor.
+
 # Core Moves
 
 ## Last Breath
