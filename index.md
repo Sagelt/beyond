@@ -201,14 +201,14 @@ Each player chooses a class. The currently available class are:
 The GM provides a starting Goal for the party, then opens the adventure
 at a key moment in pursuing that goal.
 
-## Rules
+# Rules
 
 This is an abbreviated overview of the rules that attempts to just hit
 on the high points to setup playtesting. If something is not covered
 here, make a best guess and ask when you get a chance, I'll be happy to
 expand.
 
-### Moves
+## Moves
 
 The rules of *Beyond* are broken up into **moves.** Each move says when
 it happens and what it does. If a move has you roll the dice, the move
@@ -255,7 +255,7 @@ rolls or poor choices. Each condition says how it modifies the move it
 is part of. Conditions are only removed as part of making camp or
 through certain magical means.
 
-### Dice
+## Dice
 
 Many moves say **roll**, which means roll 2 six-sided dice. The move may
 say to add or subtract something to the roll (either a fixed bonus or
@@ -290,7 +290,7 @@ making they roll twice and take the lower result. If they are using a
 weapon that is especially well-crafted or well-suited for the attack
 they are making they roll twice and take the higher result.
 
-### Damage, Armor, And HP
+## Damage, Armor, And HP
 
 Living things in *Beyond* have **HP** which indicates how much damage
 they can take before facing Death. Something with its maximum HP is
@@ -318,7 +318,7 @@ Some damage **ignores armor** entirely, or ignores a specific amount of
 armor. This might be because the harm is too broad for armor to be
 useful (a falling boulder) or because the attack bypasses the armor.
 
-### Character Change
+## Character Change
 
 Characters grow and change through **abilities** and **levels**.
 Abilities are gained through **advancement** on a specific move---each
@@ -340,6 +340,41 @@ level +3 they gain a level. When gaining a level they:
 
 HP, reserve dice, damage dice, and move bonuses do not change when
 leveling up unless the move the player chose during leveling up says so.
+
+## Bonds
+
+Bonds tie the characters to each other directly. Each bond is a
+statement about a positive relationship between the characters which
+drives action. When creating characters bonds are rolled randomly. For
+each rolled bond the player chooses another player character as the
+target of that bond and asks the player of that character if they're
+okay with that bond. If not the player can choose another target for the
+bond or the GM can provide an NPC for that bond.
+
+Bonds drive player characters to push themselves, but can also be a
+distraction. Each bond has three uses and can be used for each once:
+
+-   Gain a reserve die when the target of the bond shows appreciation or
+    reciprication
+-   Increase the category of success for a roll where the target of the
+    bond is effected in a way that relates to the bond
+-   Decrease the category of success for a roll where the target of the
+    bond is effected in a way that relates to the bond
+
+Once a bond has been used for all three it is uses it is resolved. When
+a bond is resolved the player can choose one:
+
+-   Mark XP for resolving a bond
+-   Gain a new bond move
+
+If the player chooses a bond move the blank in the bond move (if there
+is one) must be filled with the same character who the resolved bond was
+with.
+
+After a bond is resolved the player chooses a new bond to replace it.
+They can either write a new bond of their own, roll for one, or choose
+one from the list. The new bond can be with anyone: the same character,
+a different player character, or a different NPC.
 
 # Core Moves
 
@@ -625,18 +660,20 @@ you emerge from prayer, you permanently gain that physical feature.
 
 ## Bonds
 
-Choose a bond. When your bond applies to a roll you make you or the
-target of the bond may increase the result of a roll by one category (6-
-to 7-9, 7-9 to 10+) and mark a bond advancement. When all advancements
-are marked choose a new bond in place of the one that you completed (but
-keep the ability). \* ( ) The gods have an interest in \_\_\_\_\_\_\_, I
-must find out why. \* \[ \]\[ \]\[ \]\[ \]\[ \] Visions: The gods will
-send you visions if \_\_\_\_\_\_ is in danger. \* ( ) \_\_\_\_\_\_\_ is
-in danger but I will keep them safe. \* \[ \]\[ \]\[ \]\[ \]\[ \] The
-Gods' Work: You may give your reserve dice to \_\_\_\_\_\_\_. \* ( )
-\_\_\_\_\_\_\_\_'s faith is strange to me, I can learn much from them \*
-\[ \]\[ \]\[ \]\[ \]\[ \] Expanded Horizons: You may also take moves
-from \_\_\_\_\_\_'s class
+You start with three bonds from the list. Roll 1d10+10 for each. When
+you resolve a bond you can mark XP or choose a bond move.
+
+### ( ) Visions
+
+The gods will send you visions if \_\_\_\_\_\_ is in danger.
+
+### ( ) The Gods' Work
+
+You may give your reserve dice to \_\_\_\_\_\_\_.
+
+### ( ) Expanded Horizons
+
+You may also take moves from \_\_\_\_\_\_'s class
 
 ## Stats
 
@@ -656,6 +693,7 @@ erase all XP and gain a level (each mark counts separately).
 -   \[ \]\[ \]\[ \] Aid someone in need on behalf of the gods
 -   \[ \]\[ \] Put your deity before yourself
 -   \[ \]\[ \] Achieve a goal
+-   \[ \]\[ \]\[ \] Resolve a bond
 
 ## Allegiance
 
@@ -998,22 +1036,20 @@ choice. If the reduction leaves the item with 0 armor it is destroyed.
 
 ## Bonds
 
-Choose a bond. When your bond applies to a roll you make you or the
-target of the bond may increase the result of a roll by one category (6-
-to 7-9, 7-9 to 10+) and mark a bond advancement. When all advancements
-are marked choose a new bond in place of the one that you completed (but
-keep the ability).
+You start with three bonds from the list. Roll 1d10 for each. When you
+resolve a bond you can mark XP or choose a bond move.
 
--   ( ) \_\_\_\_\_\_\_\_ appears weak, but there's much I can learn from
-    them.
-    -   \[ \]\[ \]\[ \]\[ \]\[ \] Expanded Horizons: You may also take
-        moves from \_\_\_\_\_\_'s class
--   ( ) I owe my life to \_\_\_\_\_\_\_, I will pay them back.
-    -   \[ \]\[ \]\[ \]\[ \]\[ \] Death's Friend: Take +1 to last breath
-        rolls.
--   ( ) I worry about \_\_\_\_\_\_\_\_, I will protect them.
-    -   \[ \]\[ \]\[ \]\[ \]\[ \] Bonded: You may give your reserve dice
-        to \_\_\_\_\_\_\_\_\_\_.
+### ( ) Expanded Horizons
+
+You may also take moves from \_\_\_\_\_\_'s class
+
+### ( ) Death's Friend
+
+Take +1 to last breath rolls.
+
+### ( ) Bonded
+
+You may give your reserve dice to \_\_\_\_\_\_\_\_\_\_.
 
 ## Stats
 
@@ -1033,6 +1069,7 @@ erase all XP and gain a level (each mark counts separately).
 -   \[ \]\[ \]\[ \] Aid someone in need
 -   \[ \]\[ \] Lead a charge into battle
 -   \[ \]\[ \] Achieve a goal
+-   \[ \]\[ \]\[ \] Resolve a bond
 
 ## Allegiance
 
@@ -1325,23 +1362,21 @@ attached, your call.
 
 ## Bonds
 
-Choose a bond. When your bond applies to a roll you make you or the
-target of the bond may increase the result of a roll by one category (6-
-to 7-9, 7-9 to 10+) and mark a bond advancement. When all advancements
-are marked choose a new bond in place of the one that you completed (but
-keep the ability).
+You start with three bonds from the list. Roll 1d10+30 for each. When
+you resolve a bond you can mark XP or choose a bond move.
 
--   ( ) \_\_\_\_\_\_\_\_ and I have a con running.
-    -   \[ \]\[ \]\[ \]\[ \]\[ \] Expanded Horizons: You may also take
-        moves from \_\_\_\_\_\_'s class
--   ( ) \_\_\_\_\_\_\_ shares my secret, I must keep them safe.
-    -   \[ \]\[ \]\[ \]\[ \]\[ \] Blood Bond: At the end of any session
-        where \_\_\_\_\_\_\_\_ did not take significant harm you may
-        mark any XP box.
--   ( ) \_\_\_\_\_\_\_\_ has my back when things go wrong, so I have
-    theirs.
-    -   \[ \]\[ \]\[ \]\[ \]\[ \] Bonded: You may give your reserve dice
-        to \_\_\_\_\_\_\_\_\_\_.
+### ( ) Expanded Horizons
+
+You may also take moves from \_\_\_\_\_\_'s class
+
+### ( ) Blood Bond
+
+At the end of any session where \_\_\_\_\_\_\_\_ did not take
+significant harm you may mark any XP box.
+
+### ( ) Bonded
+
+You may give your reserve dice to \_\_\_\_\_\_\_\_\_\_.
 
 ## Stats
 
@@ -1361,6 +1396,7 @@ erase all XP and gain a level (each mark counts separately).
 -   \[ \]\[ \]\[ \] Aid someone in need
 -   \[ \]\[ \] Make a daring escape
 -   \[ \]\[ \] Achieve a goal
+-   \[ \]\[ \]\[ \] Resolve a bond
 
 ## Allegiance
 
@@ -1414,12 +1450,14 @@ When you have time to gather materials and a safe place to brew you can
 create more of a poison you have mastered. Roll+1. On a 7+ you create 3
 doses. On a 10+ you may create 2 additional doses or mark advancement.
 
-**Abilities** \* \[ \]\[ \]\[ \]\[ \]\[ \] Happy Accident: Design a new
-poison. You have mastery for it. Then erase all advancement from this
-ability. \* \[ \]\[ \]\[ \]\[ \]\[ \]\[ \]\[ \] Innovation: Design a new
-poison. You have mastery for it. You may choose an extra effect, an
-extra method, or no traces, your choice. Then erase all advancement from
-this ability.
+**Abilities**
+
+-   \[ \]\[ \]\[ \]\[ \]\[ \] Happy Accident: Design a new poison. You
+    have mastery for it. Then erase all advancement from this ability.
+-   \[ \]\[ \]\[ \]\[ \]\[ \]\[ \]\[ \] Innovation: Design a new poison.
+    You have mastery for it. You may choose an extra effect, an extra
+    method, or no traces, your choice. Then erase all advancement from
+    this ability.
 
 # The Wizard
 
@@ -1658,23 +1696,25 @@ temporarily suspended and you gain a reserve die up to your maximum.
 
 ## Bonds
 
-Choose a bond. When your bond applies to a roll you make you or the
-target of the bond may increase the result of a roll by one category (6-
-to 7-9, 7-9 to 10+) and mark a bond advancement. When all advancements
-are marked choose a new bond in place of the one that you completed (but
-keep the ability).
+You start with two bonds from the list. Roll 1d10+20 for each. When you
+resolve a bond you can mark XP or choose a bond move.
 
--   ( ) There is a power in \_\_\_\_\_\_\_ that I want to understand.
-    -   \[ \]\[ \]\[ \]\[ \]\[ \] Expanded Horizons: You may also take
-        moves from \_\_\_\_\_\_'s class
--   ( ) I believe an ancient prophecy is about \_\_\_\_\_\_\_ and I must
-    protect them.
-    -   \[ \]\[ \]\[ \]\[ \]\[ \] Prophetic Visions: When you discern
-        realities you may also ask "What will happen if \_\_\_\_\_\_\_\_
-        does \_\_\_\_\_\_\_\_\_?"
--   ( ) \_\_\_\_\_\_\_\_ can learn much from me, I must teach them
-    -   \[ \]\[ \]\[ \]\[ \]\[ \] Mystical Mentorship: You can always
-        tell the direction and distance to \_\_\_\_\_\_\_\_\_\_
+## ( ) Expanded Horizons
+
+You may also take moves from \_\_\_\_\_\_'s class
+
+## ( ) Prophetic Visions
+
+When you discern realities you may also ask "What will happen if
+\_\_\_\_\_\_\_\_ does \_\_\_\_\_\_\_\_\_?"
+
+## ( ) Mystical Mentorship
+
+You can always tell the direction and distance to \_\_\_\_\_\_\_\_\_\_
+
+## ( ) Friendship Is Magic
+
+Gain a new bond (three total).
 
 ## Stats
 
@@ -1694,6 +1734,7 @@ erase all XP and gain a level (each mark counts separately).
 -   \[ \]\[ \]\[ \] Aid someone in need
 -   \[ \]\[ \] Craft a new magic item or develop a new spell
 -   \[ \]\[ \] Achieve a goal
+-   \[ \]\[ \]\[ \] Resolve a bond
 
 ## Allegiance
 
@@ -1881,3 +1922,56 @@ their power will remove you from danger, at least for the moment. On a
 preserve you, but hold 1 over you. Expect them to claim something that
 is yours at the worst time. So long as they have hold over you, they
 will not answer another desparate plea.
+
+# Bonds
+
+1.  I owe my life to \_\_\_\_\_\_\_, I will pay them back.
+2.  \_\_\_\_\_\_\_ suffered an injury due to me, I will prove I can keep
+    them safe.
+3.  I worry that \_\_\_\_\_\_\_ cannot protect themselves, I will tech
+    them to be strong.
+4.  I have noticed \_\_\_\_\_\_\_ has unique skills in combat, I will
+    learn them.
+5.  When I first met \_\_\_\_\_\_\_ we were enemies, I must prove to
+    them I can be trusted.
+6.  \_\_\_\_\_\_\_ gave me some useful equipment, I will show them what
+    I can do with it.
+7.  \_\_\_\_\_\_\_ mentored me, I will prove to them that I have
+    mastered what they taught.
+8.  \_\_\_\_\_\_\_ got me out of a bad situation, I owe them to do the
+    same.
+9.  \_\_\_\_\_\_\_ and I have a friendly rivalry, I will outdo them.
+10. I was tasked with guarding \_\_\_\_\_\_\_, I will keep them safe.
+11. The gods have an interest in \_\_\_\_\_\_\_, I must find out why.
+12. \_\_\_\_\_\_\_ is in danger from evil powers but I will keep them
+    safe.
+13. \_\_\_\_\_\_\_'s faith is strange to me, I will learn much from
+    them.
+14. \_\_\_\_\_\_\_ brought light to my darkest days, I will do the same
+    for them.
+15. I grew up with \_\_\_\_\_\_\_, I will prove to them that I have
+    changed.
+16. \_\_\_\_\_\_\_ has a pure soul, I will protect it.
+17. \_\_\_\_\_\_\_ wants to learn the ways of faith from me, I will show
+    them.
+18. I worry for the soul of \_\_\_\_\_\_\_, I must give them a worthy
+    example.
+19. \_\_\_\_\_\_\_ has shown a great kindness to the gods, I must repay
+    them.
+20. \_\_\_\_\_\_\_ is a champion of the faithful, I must aid them in
+    their work.
+21. There is a power in \_\_\_\_\_\_\_ that I need to understand.
+22. I believe an ancient prophecy is about \_\_\_\_\_\_\_ and I must
+    protect them.
+23. \_\_\_\_\_\_\_ wants to learn the ways of magic, I must teach them.
+24. \_\_\_\_\_\_\_ brought me knowedlge from distant realms, I will
+    repay them.
+25. \_\_\_\_\_\_\_ has seen Death, I will not let them face Death again.
+26. \_\_\_\_\_\_\_ knew me when I was young and foolish, I will show
+    them I am now wise.
+27. My magic harmed \_\_\_\_\_\_\_, I will make it right.
+28. \_\_\_\_\_\_\_ protected me from magic gone wrong, I will do the
+    same for them.
+29. I studied alongside \_\_\_\_\_\_\_ for a time, now I will prove to
+    them I made the right choice by pursuing magic.
+30. \_\_\_\_\_\_\_ is what I wish to be, I will impress them.

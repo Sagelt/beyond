@@ -33,6 +33,7 @@ more of a poison you have mastered. Roll+1. On a 7+ you create 3 doses. On a
 10+ you may create 2 additional doses or mark advancement.
 
 **Abilities**
+
 * [ ][ ][ ][ ][ ] Happy Accident: Design a new poison. You have mastery for it.
   Then erase all advancement from this ability.
 * [ ][ ][ ][ ][ ][ ][ ] Innovation: Design a new poison. You have mastery for
