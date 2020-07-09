@@ -112,7 +112,7 @@ the game: you can just assume this is *Dungeon* World except that...
     gone.
 
 Other than that, some bits of *Dungeon World* (or in some cases
-*Apoclypse World*) remain the same:
+*Apocalypse World*) remain the same:
 
 -   Rolls are 2d6. On a 7+ the move says what happens. On a 6- the GM
     says what happens (and you probably won't like it) unless the move

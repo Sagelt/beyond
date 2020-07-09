@@ -94,7 +94,7 @@ assume this is _Dungeon_ World except that…
 * The world is a more specific kind of fantasy, a collision of worlds and ages.
 * Hirelings, steadings, and many of the more narrow special moves are gone.
 
-Other than that, some bits of _Dungeon World_ (or in some cases _Apoclypse
+Other than that, some bits of _Dungeon World_ (or in some cases _Apocalypse
 World_) remain the same:
 
 * Rolls are 2d6. On a 7+ the move says what happens. On a 6- the GM says what
