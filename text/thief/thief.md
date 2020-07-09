@@ -241,6 +241,10 @@ mark any XP box.
 
 You may give your reserve dice to __________.
 
+### ( ) Burned
+
+When an effect would reveal your allegiance you may answer however you like.
+
 ## Stats
 
 * 6 HP

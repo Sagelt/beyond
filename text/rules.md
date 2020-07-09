@@ -184,3 +184,24 @@ accomplished everyone marks the appropriate XP and then writes a new goal
 together.
 
 Goals also help the GM plan adventures and adversaries. More on that later.
+
+## Allegiance
+
+Characters (player characters and NPCs) have an **allegiance** that indicates
+an entity or concept that the character is invested in. Allegiances can be to
+ideals (like freedom), groups (like The Black Order), or individuals (like The
+Queen of Tears).
+
+A character's allegiance guides their actions. Player characters get XP for
+serving their allegiance. NPCs use their allegiance as a guide in their
+actions.
+
+A player character can change their allegiance through the swear allegiance
+core move.
+
+Some moves or magic may reveal a characters' allegiance. The player must
+truthfully state their characters' allegiance.
+
+Characters may have affiliations with many organizations and dedications to
+many ideals, but their allegiance is their guiding principle and a part of
+their identity.

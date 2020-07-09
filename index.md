@@ -404,6 +404,27 @@ new goal together.
 Goals also help the GM plan adventures and adversaries. More on that
 later.
 
+## Allegiance
+
+Characters (player characters and NPCs) have an **allegiance** that
+indicates an entity or concept that the character is invested in.
+Allegiances can be to ideals (like freedom), groups (like The Black
+Order), or individuals (like The Queen of Tears).
+
+A character's allegiance guides their actions. Player characters get XP
+for serving their allegiance. NPCs use their allegiance as a guide in
+their actions.
+
+A player character can change their allegiance through the swear
+allegiance core move.
+
+Some moves or magic may reveal a characters' allegiance. The player must
+truthfully state their characters' allegiance.
+
+Characters may have affiliations with many organizations and dedications
+to many ideals, but their allegiance is their guiding principle and a
+part of their identity.
+
 # Core Moves
 
 ## Last Breath
@@ -439,6 +460,13 @@ able to wake the camp and prepare a response, everyone in the camp takes
 in camp are awake but haven't had time to prepare. They have weapons and
 armor but little else. On a miss, whatever lurks outside the campfire's
 light has the drop on you.
+
+## Swear Allegiance
+
+When you swear allegiance say how you renounce your old allegiance and
+make a formal pledge to your new allegiance. Remove your old allegiance
+and erase any XP you had for any XP conditions that relied on your
+allegiance. Write in your new allegiance.
 
 # The Cleric
 
@@ -1405,6 +1433,11 @@ significant harm you may mark any XP box.
 ### ( ) Bonded
 
 You may give your reserve dice to \_\_\_\_\_\_\_\_\_\_.
+
+### ( ) Burned
+
+When an effect would reveal your allegiance you may answer however you
+like.
 
 ## Stats
 
