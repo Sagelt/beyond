@@ -89,7 +89,7 @@ at 0 HP is drawing a last breath. For player characters this means making the
 last breath move. For NPCs the GM will describe how they meet Death.
 
 Physical harm is measured in **damage**. When something takes damage it
-subtracts that amount from its current HP. For living thigns the amount of
+subtracts that amount from its current HP. For living things the amount of
 damage it causes is described by the class (for player characters) or GM rules
 (for NPCs). Damage from sources other than living things (like a rock slide or
 trap) is based on these options:
@@ -143,13 +143,13 @@ Bonds drive player characters to push themselves, but can also be a
 distraction. Each bond has three uses and can be used for each once:
 
 * Gain a reserve die when the target of the bond shows appreciation or
-  reciprication
+  reciprocation
 * Increase the category of success for a roll where the target of the bond is
-  effected in a way that relates to the bond
+  affected in a way that relates to the bond
 * Decrease the category of success for a roll where the target of the bond is
-  effected in a way that relates to the bond
+  affected in a way that relates to the bond
 
-Once a bond has been used for all three it is uses it is resolved. When a bond
+Once a bond has been used for all three of is uses it is resolved. When a bond
 is resolved the player can choose one:
 
 * Mark XP for resolving a bond
@@ -165,7 +165,7 @@ character, or a different NPC.
 
 ## Goals
 
-While bonds tie the characters to each other **goals** tie them together as a
+While bonds tie the characters to each other, **goals** tie them together as a
 group. The player characters are a party that shares a goal. That goal may be
 short term and self-serving (delivering a package across the fire swamp to earn
 a living) or long term and selfless (removing the demon incursion from The
@@ -212,7 +212,7 @@ their identity.
 ## Gear
 
 Gear is the equipment the player characters carry. Some gear is significant in
-itself and is listed indivudally, the rest of the miscellaneous stuff the
+itself and is listed individually, the rest of the miscellaneous stuff the
 characters carry is called **supplies**. The amount of supplies each class
 starts with is the amount they can carry in one slot.
 
@@ -238,7 +238,7 @@ Money is tracked in coin. Coin is the various currencies that circulate between
 the various kingdoms, wildlands, and autonomous areas of _Beyond._
 
 Coin is not king in _Beyond._ While most folk will accept coin, they will do so
-grudginly as coin's only guaranteed use is paying it back to whomever claims to
+grudgingly as coin's only guaranteed use is paying it back to whomever claims to
 govern you in taxes. Useful materials or goods, food, art, or favors are all
 more directly fungible to most sentient beings.
 
