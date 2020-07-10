@@ -2235,7 +2235,7 @@ to your maximum.
 **Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Amplifier: The reserve dice you gain
-    through Omega are d8 instead of d6.
+    through Magic Eater are d8 instead of d6.
 
 ## Bonds
 
