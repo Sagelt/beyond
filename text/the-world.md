@@ -54,7 +54,7 @@ power and souls.
 The gods of _Beyond_ are both present and obscure. Those favored by the gods
 receive and miracles are not unheard of. But at the same time the gods seem
 capricious and uncaring, pursuing their own agendas which only occasionally
-overlap with those of the mortals that worship them. Even gods who's domains
+overlap with those of the mortals that worship them. Even gods whose domains
 are ostensibly concerned with mortal life seem to care about those mortal lives
 more as an object to be manipulated than as people.
 
@@ -110,5 +110,5 @@ material plane.
   self-destructive war to attempt to cleanse the world of sentience (including
   that of herself and her subjects).
 * A portion of the world reverts to its ancient state, including invasive
-  foliage that overtakes the adjoining land, which leads to paniced and
+  foliage that overtakes the adjoining land, which leads to panicked and
   displaced creatures venturing into settlements.

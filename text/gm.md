@@ -1,7 +1,7 @@
 # The GM
 
 The GM is responsible for everything outside of the player characters. The
-players say what their characters say, think, and do. The GM says everthing
+players say what their characters say, think, and do. The GM says everything
 else.
 
 ## Starting The Game
@@ -83,7 +83,7 @@ for what an NPC will do right here and now use its instinct.
 
 An NPC's GM moves describe any specific ways that it will act out its instinct
 or serve its allegiance. Think of them as specific phrasings of GM moves.
-"Ensare them in vines" is a more specific version of "put them in a spot", for
+"Ensnare them in vines" is a more specific version of "put them in a spot", for
 example. Having specific moves for an NPC gives you ways to describe that NPC
 and their particular skills and abilities.
 
