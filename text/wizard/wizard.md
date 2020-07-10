@@ -202,6 +202,13 @@ place of power. Describe to the GM what kind of power it is and how you’re
 binding it to this place, the GM will tell you one organization or being that
 will have an interest in your workings.
 
+### ( ) Supercharger
+
+When you pour magical energy into a relic, roll+1. On a 10+ the relic is
+supercharged, performing its intended use much more effectively than usual or
+doing something it normally couldn't. On a 7-9 the relic is supercharged, but
+the power is too much: it will fail catastrophically in a few moments.
+
 ### ( ) Warlock
 
 Gain a _[mystic patron](#mystic-patron)_.

@@ -78,8 +78,8 @@ twice and take the lower result. If they are using a weapon that is especially
 well-crafted or well-suited for the attack they are making they roll twice and
 take the higher result.
 
-Some rules refer to a **die size**. The die size is the number of sides on
-the die. For example, a d6 has a die size of 6.
+Some rules refer to a **die size**. The die size is the number of sides on the
+die. For example, a d6 has a die size of 6.
 
 ## Damage, Armor, And HP
 
@@ -232,14 +232,21 @@ Adventurers can also use their supplies as a store of useful items. At any time
 an adventurer can mark off one supply to grab a useful item from their pack
 that would reasonably be part of their kit.
 
+Most items originated from the original fantasy world. Those that come from the
+various collided ages and worlds are called **relics**. Relics are not
+inherently magical or powerful. In fact most function as they would where they
+came from, even if they do not have things they would normally require like
+gasoline or electricity. But being from a different existence does mean that
+they can behave differently—some moves trigger when interacting with relics.
+
 ## Coin & The Economy
 
 Money is tracked in coin. Coin is the various currencies that circulate between
 the various kingdoms, wildlands, and autonomous areas of _Beyond._
 
 Coin is not king in _Beyond._ While most folk will accept coin, they will do so
-grudgingly as coin's only guaranteed use is paying it back to whomever claims to
-govern you in taxes. Useful materials or goods, food, art, or favors are all
+grudgingly as coin's only guaranteed use is paying it back to whomever claims
+to govern you in taxes. Useful materials or goods, food, art, or favors are all
 more directly fungible to most sentient beings.
 
 There will eventually be a section of sample vendors listing what they accept

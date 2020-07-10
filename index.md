@@ -453,6 +453,14 @@ Adventurers can also use their supplies as a store of useful items. At
 any time an adventurer can mark off one supply to grab a useful item
 from their pack that would reasonably be part of their kit.
 
+Most items originated from the original fantasy world. Those that come
+from the various collided ages and worlds are called **relics**. Relics
+are not inherently magical or powerful. In fact most function as they
+would where they came from, even if they do not have things they would
+normally require like gasoline or electricity. But being from a
+different existence does mean that they can behave differently---some
+moves trigger when interacting with relics.
+
 ## Coin & The Economy
 
 Money is tracked in coin. Coin is the various currencies that circulate
@@ -1120,6 +1128,12 @@ taking this move, choose a feature associated with your deity (rending
 claws, wings of sapphire feathers, an all-seeing third eye, etc.). When
 you emerge from prayer, you permanently gain that physical feature.
 
+#### ( ) Gods of Small Things
+
+When you have time to pray over a relic your deity will tell you where
+it came from, who made it, and how you could use it to further your
+deity's cause.
+
 ## Bonds
 
 You start with three bonds from the list. Roll 1d10+10 for each. When
@@ -1476,6 +1490,12 @@ a 10+, choose 3. On a 7-9 choose 2.
 
 When you spend a reserve die to hack and slash treat your damage dice as
 if they all rolled their maximum values.
+
+#### ( ) Improvised Weaponry
+
+You can use any object as a weapon. An object used as a weapon breaks
+after a single use unless it is a relic, in which case it can be used
+indefinitely.
 
 ### ( ) Bearer
 
@@ -1876,6 +1896,11 @@ attached, your call.
 
 +3 maximum HP.
 
+#### ( ) Mechanic
+
+When you study a relic you can ask the GM where it's from and what it is
+intended to do. They will answer truthfully.
+
 ## Bonds
 
 You start with three bonds from the list. Roll 1d10+30 for each. When
@@ -2216,6 +2241,14 @@ When you have time, arcane materials, and a safe space, you can create
 your own place of power. Describe to the GM what kind of power it is and
 how you're binding it to this place, the GM will tell you one
 organization or being that will have an interest in your workings.
+
+### ( ) Supercharger
+
+When you pour magical energy into a relic, roll+1. On a 10+ the relic is
+supercharged, performing its intended use much more effectively than
+usual or doing something it normally couldn't. On a 7-9 the relic is
+supercharged, but the power is too much: it will fail catastrophically
+in a few moments.
 
 ### ( ) Warlock
 

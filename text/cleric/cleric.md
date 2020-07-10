@@ -232,6 +232,11 @@ this move, choose a feature associated with your deity (rending claws, wings of
 sapphire feathers, an all-seeing third eye, etc.). When you emerge from prayer,
 you permanently gain that physical feature.
 
+#### ( ) Gods of Small Things
+
+When you have time to pray over a relic your deity will tell you where it came
+from, who made it, and how you could use it to further your deity's cause.
+
 ## Bonds
 
 You start with three bonds from the list. Roll 1d10+10 for each. When you

@@ -223,6 +223,11 @@ settle for something close or it comes with strings attached, your call.
 
 +3 maximum HP.
 
+#### ( ) Mechanic
+
+When you study a relic you can ask the GM where it's from and what it is
+intended to do. They will answer truthfully.
+
 ## Bonds
 
 You start with three bonds from the list. Roll 1d10+30 for each. When you

@@ -162,6 +162,11 @@ choose 3. On a 7-9 choose 2.
 When you spend a reserve die to hack and slash treat your damage dice as if
 they all rolled their maximum values.
 
+#### ( ) Improvised Weaponry
+
+You can use any object as a weapon. An object used as a weapon breaks after a
+single use unless it is a relic, in which case it can be used indefinitely.
+
 ### ( ) Bearer
 
 Gain a _[signature weapon](#signature-weapon)_.
