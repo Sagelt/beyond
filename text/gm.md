@@ -1,7 +1,7 @@
 # The GM
 
 The GM is responsible for everything outside of the player characters. The
-players say what their characters say, think, and do. The GM says everthing
+players say what their characters say, think, and do. The GM says everything
 else.
 
 ## Starting The Game
@@ -83,7 +83,7 @@ for what an NPC will do right here and now use its instinct.
 
 An NPC's GM moves describe any specific ways that it will act out its instinct
 or serve its allegiance. Think of them as specific phrasings of GM moves.
-"Ensare them in vines" is a more specific version of "put them in a spot", for
+"Ensnare them in vines" is a more specific version of "put them in a spot", for
 example. Having specific moves for an NPC gives you ways to describe that NPC
 and their particular skills and abilities.
 
@@ -137,7 +137,7 @@ and moves.
   direct as rebuilding a barn or attacking a stronghold. If the force is added
   as part of a goal or adventure location make sure it has at least one plot
   related to that. You can add new plots at any time.
-* Opportunities are open weakneses or offered deals that the players can take
+* Opportunities are open weaknesses or offered deals that the players can take
   advantage of, defend, or accept. Add them as appropriate during play.
 * Moves are GM moves representing common actions the force takes. Start with
   any that come to mind and add more between sessions to reflect how the force

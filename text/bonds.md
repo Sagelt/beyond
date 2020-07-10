@@ -2,7 +2,7 @@
 
 1. I owe my life to _______, I will pay them back.
 2. _______ suffered an injury due to me, I will prove I can keep them safe.
-3. I worry that _______ cannot protect themselves, I will tech them to be
+3. I worry that _______ cannot protect themselves, I will teach them to be
    strong.
 4. I have noticed _______ has unique skills in combat, I will learn them.
 5. When I first met _______ we were enemies, I must prove to them I can be
@@ -27,7 +27,7 @@
 21. There is a power in _______ that I need to understand.
 22. I believe an ancient prophecy is about _______ and I must protect them.
 23. _______ wants to learn the ways of magic, I must teach them.
-24. _______ brought me knowedlge from distant realms, I will repay them.
+24. _______ brought me knowledge from distant realms, I will repay them.
 25. _______ has seen Death, I will not let them face Death again.
 26. _______ knew me when I was young and foolish, I will show them I am now
     wise.

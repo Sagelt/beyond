@@ -89,7 +89,7 @@ In all cases modern technology continues to work, but it works as magic
 instead of as technology. Sure, there's no reliable electricity, but
 somehow the winds of magic drive enough electrons around to keep things
 functioning (most of the time). There may not be gasoline for that
-pickup truck, but it turns out troll spit is just as flamable. In
+pickup truck, but it turns out troll spit is just as flammable. In
 general any modern technology works as the same concept, but against a
 different world: a cell phone app might actually collect stray thoughts
 instead of posts, while a movie screen becomes an actual portal to
@@ -192,7 +192,7 @@ Other than that, some bits of *Dungeon World* (or in some cases
 
 ## Getting Started
 
-Each player chooses a class. The currently available class are:
+Each player chooses a class. The currently available classes are:
 
 -   [The Cleric](#the-cleric)
 -   [The Fighter](#the-fighter)
@@ -265,7 +265,7 @@ any modifiers to get a total. Each move may be different, but in
 general:
 
 -   A 10+ means it goes as well as could be hoped for.
--   A 7-9 means a compromise or worst outcome. You may do what you set
+-   A 7-9 means a compromise or worse outcome. You may do what you set
     out to but with a complication or achieve something less than what
     you intended.
 -   A 6- means the GM says what happens (and you probably won't like
@@ -303,7 +303,7 @@ characters this means making the last breath move. For NPCs the GM will
 describe how they meet Death.
 
 Physical harm is measured in **damage**. When something takes damage it
-subtracts that amount from its current HP. For living thigns the amount
+subtracts that amount from its current HP. For living things the amount
 of damage it causes is described by the class (for player characters) or
 GM rules (for NPCs). Damage from sources other than living things (like
 a rock slide or trap) is based on these options:
@@ -359,13 +359,13 @@ Bonds drive player characters to push themselves, but can also be a
 distraction. Each bond has three uses and can be used for each once:
 
 -   Gain a reserve die when the target of the bond shows appreciation or
-    reciprication
+    reciprocation
 -   Increase the category of success for a roll where the target of the
-    bond is effected in a way that relates to the bond
+    bond is affected in a way that relates to the bond
 -   Decrease the category of success for a roll where the target of the
-    bond is effected in a way that relates to the bond
+    bond is affected in a way that relates to the bond
 
-Once a bond has been used for all three it is uses it is resolved. When
+Once a bond has been used for all three of is uses it is resolved. When
 a bond is resolved the player can choose one:
 
 -   Mark XP for resolving a bond
@@ -382,12 +382,12 @@ a different player character, or a different NPC.
 
 ## Goals
 
-While bonds tie the characters to each other **goals** tie them together
-as a group. The player characters are a party that shares a goal. That
-goal may be short term and self-serving (delivering a package across the
-fire swamp to earn a living) or long term and selfless (removing the
-demon incursion from The Reach) or anything in between. The important
-aspects of a goal are that:
+While bonds tie the characters to each other, **goals** tie them
+together as a group. The player characters are a party that shares a
+goal. That goal may be short term and self-serving (delivering a package
+across the fire swamp to earn a living) or long term and selfless
+(removing the demon incursion from The Reach) or anything in between.
+The important aspects of a goal are that:
 
 -   The goal matters to all the characters in the party
 -   Everyone at the table (including the GM) is interested in the goal
@@ -431,7 +431,7 @@ part of their identity.
 ## Gear
 
 Gear is the equipment the player characters carry. Some gear is
-significant in itself and is listed indivudally, the rest of the
+significant in itself and is listed individually, the rest of the
 miscellaneous stuff the characters carry is called **supplies**. The
 amount of supplies each class starts with is the amount they can carry
 in one slot.
@@ -460,7 +460,7 @@ between the various kingdoms, wildlands, and autonomous areas of
 *Beyond.*
 
 Coin is not king in *Beyond.* While most folk will accept coin, they
-will do so grudginly as coin's only guaranteed use is paying it back to
+will do so grudgingly as coin's only guaranteed use is paying it back to
 whomever claims to govern you in taxes. Useful materials or goods, food,
 art, or favors are all more directly fungible to most sentient beings.
 
@@ -472,7 +472,7 @@ exist yet. Sorry!
 
 The GM is responsible for everything outside of the player characters.
 The players say what their characters say, think, and do. The GM says
-everthing else.
+everything else.
 
 ## Starting The Game
 
@@ -556,9 +556,9 @@ looking for what an NPC will do right here and now use its instinct.
 
 An NPC's GM moves describe any specific ways that it will act out its
 instinct or serve its allegiance. Think of them as specific phrasings of
-GM moves. "Ensare them in vines" is a more specific version of "put them
-in a spot", for example. Having specific moves for an NPC gives you ways
-to describe that NPC and their particular skills and abilities.
+GM moves. "Ensnare them in vines" is a more specific version of "put
+them in a spot", for example. Having specific moves for an NPC gives you
+ways to describe that NPC and their particular skills and abilities.
 
 Some NPCs also have special rules. NPCs don't make player moves, but
 they may modify player moves or modify how damage, armor, or other rules
@@ -615,7 +615,7 @@ opportunities, and moves.
     stronghold. If the force is added as part of a goal or adventure
     location make sure it has at least one plot related to that. You can
     add new plots at any time.
--   Opportunities are open weakneses or offered deals that the players
+-   Opportunities are open weaknesses or offered deals that the players
     can take advantage of, defend, or accept. Add them as appropriate
     during play.
 -   Moves are GM moves representing common actions the force takes.
@@ -766,12 +766,12 @@ demons capture along with their magic power and souls.
 ### Gods & Angels
 
 The gods of *Beyond* are both present and obscure. Those favored by the
-gods receive and miracles are not unheard of. But at the same time the
-gods seem capricious and uncaring, pursuing their own agendas which only
-occasionally overlap with those of the mortals that worship them. Even
-gods who's domains are ostensibly concerned with mortal life seem to
-care about those mortal lives more as an object to be manipulated than
-as people.
+gods receive their blessings, and miracles are not unheard of. But at
+the same time the gods seem capricious and uncaring, pursuing their own
+agendas which only occasionally overlap with those of the mortals that
+worship them. Even gods whose domains are ostensibly concerned with
+mortal life seem to care about those mortal lives more as an object to
+be manipulated than as people.
 
 The angels that serve the gods are fearful creatures of light, eyes, and
 feathers. They come in numberless forms but all are strange and
@@ -800,7 +800,7 @@ it and save the miserable souls who must live there, though occasionally
 a Fey clique will make a peregrination through the material plane to
 observe it's pitiable state for themselves.
 
-#### Courtly Intrigues
+#### Meddlesome Interlopers
 
 -   In an effort to illustrate to mortals their poor state a fey
     sorcerer begins spreading lycanthropy. "See, it's not really so
@@ -829,7 +829,7 @@ the shadow of the material plane.
     sentience (including that of herself and her subjects).
 -   A portion of the world reverts to its ancient state, including
     invasive foliage that overtakes the adjoining land, which leads to
-    paniced and displaced creatures venturing into settlements.
+    panicked and displaced creatures venturing into settlements.
 
 # Core Moves
 
@@ -974,10 +974,10 @@ GM 3 questions from the list below. On a 7--9, ask 1. Either way, take
 
 ### Parley
 
-When you have leverage on a GM Character and push them to do what you
-want, roll+0. On a 10+, they do what you ask if you first promise what
-they ask of you. On a 7--9, they will do what you ask, but need some
-concrete assurance of your promise, right now.
+When you have leverage on an NPC and push them to do what you want,
+roll+0. On a 10+, they do what you ask if you first promise what they
+ask of you. On a 7--9, they will do what you ask, but need some concrete
+assurance of your promise, right now.
 
 **Abilities**
 
@@ -1733,10 +1733,10 @@ GM 3 questions from the list below. On a 7--9, ask 1. Either way, take
 
 ### Parley
 
-When you have leverage on a GM Character and push them to do what you
-want, roll+1. On a 10+, they do what you ask if you first promise what
-they ask of you. On a 7--9, they will do what you ask, but need some
-concrete assurance of your promise, right now.
+When you have leverage on an NPC and push them to do what you want,
+roll+1. On a 10+, they do what you ask if you first promise what they
+ask of you. On a 7--9, they will do what you ask, but need some concrete
+assurance of your promise, right now.
 
 **Abilities**
 
@@ -1794,7 +1794,7 @@ and shape. Your actions can give you away but your appearance won't.
 
 #### ( ) Retribution
 
-When you are dealth damage in melee you may apply a dose of any applied
+When you are dealt damage in melee you may apply a dose of any applied
 poison to your attacker.
 
 #### ( ) Iron Stomach
@@ -2101,10 +2101,10 @@ GM 3 questions from the list below. On a 7--9, ask 1. Either way, take
 
 ### Parley
 
-When you have leverage on a GM Character and push them to do what you
-want, roll+0. On a 10+, they do what you ask if you first promise what
-they ask of you. On a 7--9, they will do what you ask, but need some
-concrete assurance of your promise, right now.
+When you have leverage on an NPC and push them to do what you want,
+roll+0. On a 10+, they do what you ask if you first promise what they
+ask of you. On a 7--9, they will do what you ask, but need some concrete
+assurance of your promise, right now.
 
 **Abilities**
 
@@ -2351,7 +2351,7 @@ penalty to your roll to cast a spell.
 -   \[ \]\[ \]\[ \]\[ \]\[ \]\[ \]\[ \] Master Caster: +1
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Empower Magic: On a 10+ you have the
     option of choosing from the 7-9 list. If you do, you may maximize
-    the spells effects or double its targets.
+    the spell's effects or double its targets.
 
 **Conditions**
 
@@ -2476,7 +2476,7 @@ Potential costs include:
 -   Retrieving something of value
 -   Destroying an obstacle
 -   Spreading the sign of your patron
--   Causing embarassament to their enemies
+-   Causing embarassment to their enemies
 
 ## Desparate Plea
 
@@ -2486,7 +2486,7 @@ some manifestation of their power will remove you from danger, at least
 for the moment. On a 7-9 you are still too useful to lose, but there is
 a cost: they will preserve you, but hold 1 over you. Expect them to
 claim something that is yours at the worst time. So long as they have
-hold over you, they will not answer another desparate plea.
+hold over you, they will not answer another desperate plea.
 
 ## Bane
 
@@ -2500,7 +2500,7 @@ something of value to you (1 HP, 1 supply, 1 XP, 1 advancement).
 1.  I owe my life to \_\_\_\_\_\_\_, I will pay them back.
 2.  \_\_\_\_\_\_\_ suffered an injury due to me, I will prove I can keep
     them safe.
-3.  I worry that \_\_\_\_\_\_\_ cannot protect themselves, I will tech
+3.  I worry that \_\_\_\_\_\_\_ cannot protect themselves, I will teach
     them to be strong.
 4.  I have noticed \_\_\_\_\_\_\_ has unique skills in combat, I will
     learn them.
@@ -2536,7 +2536,7 @@ something of value to you (1 HP, 1 supply, 1 XP, 1 advancement).
 22. I believe an ancient prophecy is about \_\_\_\_\_\_\_ and I must
     protect them.
 23. \_\_\_\_\_\_\_ wants to learn the ways of magic, I must teach them.
-24. \_\_\_\_\_\_\_ brought me knowedlge from distant realms, I will
+24. \_\_\_\_\_\_\_ brought me knowledge from distant realms, I will
     repay them.
 25. \_\_\_\_\_\_\_ has seen Death, I will not let them face Death again.
 26. \_\_\_\_\_\_\_ knew me when I was young and foolish, I will show

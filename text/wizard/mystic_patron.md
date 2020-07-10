@@ -52,7 +52,7 @@ Potential costs include:
 * Retrieving something of value
 * Destroying an obstacle
 * Spreading the sign of your patron
-* Causing embarassament to their enemies
+* Causing embarassment to their enemies
 
 ## Desparate Plea
 
@@ -62,7 +62,7 @@ manifestation of their power will remove you from danger, at least for the
 moment. On a 7-9 you are still too useful to lose, but there is a cost: they
 will preserve you, but hold 1 over you. Expect them to claim something that is
 yours at the worst time. So long as they have hold over you, they will not
-answer another desparate plea.
+answer another desperate plea.
 
 ## Bane
 

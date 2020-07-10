@@ -110,5 +110,5 @@ material plane.
   self-destructive war to attempt to cleanse the world of sentience (including
   that of herself and her subjects).
 * A portion of the world reverts to its ancient state, including invasive
-  foliage that overtakes the adjoining land, which leads to paniced and
+  foliage that overtakes the adjoining land, which leads to panicked and
   displaced creatures venturing into settlements.
