@@ -76,8 +76,8 @@ maximum it goes to their new maximum. Otherwise their current HP does not
 change.
 
 An NPC's allegiance indicates what or who it serves. When making long-term
-plans for an NPC use its allegiance as guidance. When playing an NPC that it
-seeking help or support look to their allegiance.
+plans for an NPC, use its allegiance as guidance. When playing an NPC that is
+seeking help or support, look to their allegiance.
 
 An NPC's instinct indicates what goal it pursues in the moment. When looking
 for what an NPC will do right here and now use its instinct.
