@@ -78,6 +78,9 @@ twice and take the lower result. If they are using a weapon that is especially
 well-crafted or well-suited for the attack they are making they roll twice and
 take the higher result.
 
+Some rules refer to a **die size**. The die size is the number of sides on
+the die. For example, a d6 has a die size of 6.
+
 ## Damage, Armor, And HP
 
 Living things in _Beyond_ have **HP** which indicates how much damage they can

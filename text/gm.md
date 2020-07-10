@@ -65,8 +65,8 @@ change moment to moment as a spell invigorates or a weapon is lost. HP, armor,
 and damage are derived from the die size:
 
 * The NPCs damage is their die
-* The NPCs maximum HP is equal to the size of the die
-* The NPCs armor is equal to the number of sides on the die divided by 4
+* The NPCs maximum HP is equal to their die size
+* The NPCs armor is equal to their die size, divided by 4
   (rounded down)
 
 If an NPC's die size changes their HP changes with it. If they were at maximum
@@ -76,8 +76,8 @@ maximum it goes to their new maximum. Otherwise their current HP does not
 change.
 
 An NPC's allegiance indicates what or who it serves. When making long-term
-plans for an NPC use its allegiance as guidance. When playing an NPC that it
-seeking help or support look to their allegiance.
+plans for an NPC, use its allegiance as guidance. When playing an NPC that is
+seeking help or support, look to their allegiance.
 
 An NPC's instinct indicates what goal it pursues in the moment. When looking
 for what an NPC will do right here and now use its instinct.
