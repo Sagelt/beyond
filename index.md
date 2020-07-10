@@ -568,6 +568,28 @@ Non-player characters include any living thing that is not a player
 character. Beasts, humanoids, and stranger creatures all use these
 rules.
 
+## The GM Log
+
+During each session you'll keep a GM log. The goals of your GM log are
+to:
+
+-   Keep you focused on the game in the moment
+-   Provide a reference of what happened
+-   Identify elements to use in planning for future sessions
+
+Your log is made up of entries. Your entries should be as brief as
+possible, just enough to remind you of important bits. A sentence or
+less most of the time, maybe 3 sentences at most.
+
+There are three types of entries, each indicated by it's own symbol:
+
+-   Events, indicated with an open circle ⚬, describe something
+    significant that happened.
+-   Notes, indicated with a dash -, are ideas or observations that come
+    up during the game.
+-   Opportunities, indicate with a dot ·, are unresolved threads that
+    may lead to new goals, adversaries, and threats.
+
 # Core Moves
 
 ## Last Breath
