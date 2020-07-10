@@ -583,12 +583,12 @@ less most of the time, maybe 3 sentences at most.
 
 There are three types of entries, each indicated by it's own symbol:
 
--   Events, indicated with an open circle ⚬, describe something
-    significant that happened.
+-   Events, indicated with a dot ·, describe something significant that
+    happened.
 -   Notes, indicated with a dash -, are ideas or observations that come
     up during the game.
--   Opportunities, indicate with a dot ·, are unresolved threads that
-    may lead to new goals, adversaries, and threats.
+-   Opportunities, indicated with a forward point \>, are unresolved
+    threads that may lead to new goals, adversaries, and threats.
 
 # Core Moves
 
