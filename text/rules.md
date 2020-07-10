@@ -55,7 +55,7 @@ depending on the situation). Sum the values on both dice plus any modifiers to
 get a total. Each move may be different, but in general:
 
 * A 10+ means it goes as well as could be hoped for.
-* A 7-9 means a compromise or worst outcome. You may do what you set out to but
+* A 7-9 means a compromise or worse outcome. You may do what you set out to but
   with a complication or achieve something less than what you intended.
 * A 6- means the GM says what happens (and you probably won't like it).
 
