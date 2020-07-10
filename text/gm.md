@@ -156,7 +156,7 @@ create more adventures for the player characters and keep the world in motion.
 the player characters to become entangled in.
 
 Adventures in _Beyond_ are focused on locations. Any type of location can be an
-adenture location, no matter the type of terrain or size, so long as it is:
+adventure location, no matter the type of terrain or size, so long as it is:
 
 * Dynamic. The location will eventually be different than it is and perhaps
   resolve into not being an adventure.
