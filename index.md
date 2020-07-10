@@ -2469,7 +2469,7 @@ the GM will name a cost for each that is true:
 
 -   The request is not in your patron's interest
 -   The request is hard to accomplish with their powers
--   Your patron is happy with you
+-   Your patron is unhappy with you
 
 Potential costs include:
 
