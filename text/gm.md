@@ -137,7 +137,7 @@ and moves.
   direct as rebuilding a barn or attacking a stronghold. If the force is added
   as part of a goal or adventure location make sure it has at least one plot
   related to that. You can add new plots at any time.
-* Opportunities are open weakneses or offered deals that the players can take
+* Opportunities are open weaknesses or offered deals that the players can take
   advantage of, defend, or accept. Add them as appropriate during play.
 * Moves are GM moves representing common actions the force takes. Start with
   any that come to mind and add more between sessions to reflect how the force
