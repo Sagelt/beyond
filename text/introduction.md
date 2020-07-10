@@ -76,7 +76,7 @@ In all cases modern technology continues to work, but it works as magic instead
 of as technology. Sure, there's no reliable electricity, but somehow the winds
 of magic drive enough electrons around to keep things functioning (most of the
 time). There may not be gasoline for that pickup truck, but it turns out troll
-spit is just as flamable. In general any modern technology works as the same
+spit is just as flammable. In general any modern technology works as the same
 concept, but against a different world: a cell phone app might actually collect
 stray thoughts instead of posts, while a movie screen becomes an actual portal
 to another realm. Honor the metaphor of what technology does over the details
@@ -169,7 +169,7 @@ World_) remain the same:
 
 ## Getting Started
 
-Each player chooses a class. The currently available class are:
+Each player chooses a class. The currently available classes are:
 
 * [The Cleric](#the-cleric)
 * [The Fighter](#the-fighter)
