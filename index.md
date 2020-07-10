@@ -604,6 +604,20 @@ all that there is. Maybe there are demons who do not prize magic and
 souls above all else. But from what the mortal realm has seen these
 extraplanar forces have singular aims for the material plane.
 
+The distance between planes of existance is beyond imagining so each of
+these extraplanar forces is present but not overwhelming on the material
+plane. With time and left unchecked it is likely the material plane with
+balkanize into demon outposts and fey-run refuge camps while the gods
+bicker and the old ones gleefully promote the chaos and destruction.
+Mortals are the only thing standing against this grim future, but
+mortals are also the ones collaborating with these destructive forces in
+return for scraps.
+
+Extraplanar forces are the lurking end to *Beyond,* the largest threats
+that create problems for the players to set goals against. They are
+exploitive and uncaring evils that will literally end the world if left
+unchecked. They provide the dying light to rage against.
+
 ### Demons
 
 Demons come to the mortal realms to pry wealth (as they see it) from the
