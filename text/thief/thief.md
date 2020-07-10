@@ -89,7 +89,7 @@ when acting on the answers.
 
 ### Parley
 
-When you have leverage on a GM Character and push them to do what you want,
+When you have leverage on an NPC and push them to do what you want,
 roll+1. On a 10+, they do what you ask if you first promise what they ask of
 you. On a 7–9, they will do what you ask, but need some concrete assurance of
 your promise, right now.
@@ -146,7 +146,7 @@ Your actions can give you away but your appearance won’t.
 
 #### ( ) Retribution
 
-When you are dealth damage in melee you may apply a dose of any applied poison
+When you are dealt damage in melee you may apply a dose of any applied poison
 to your attacker.
 
 #### ( ) Iron Stomach
