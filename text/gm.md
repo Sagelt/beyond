@@ -38,7 +38,7 @@ chance for reaction or mitigation.
 
 For now the set of GM moves is unchanged from DW, but I intend to revisit this:
 
-* Use a monster, danger, or location move
+* Use an NPC, force, or adventure location move
 * Reveal an unwelcome truth
 * Show signs of an approaching threat
 * Deal damage
@@ -46,7 +46,7 @@ For now the set of GM moves is unchanged from DW, but I intend to revisit this:
 * Turn their move back on them
 * Separate them
 * Give an opportunity that fits a class’ abilities
-* Show a downside to their class, race, or equipment
+* Show a downside to their class, form, or gear
 * Offer an opportunity, with or without cost
 * Put someone in a spot
 * Tell them the requirements or consequences and ask
@@ -119,8 +119,8 @@ The player characters may suggest forces for the GM to add through their
 allegiances, bonds, or other aspects of their character. The initial goal
 provided by the GM may also suggest forces at play.
 
-Each force is described by a name, area, goal, resources, plots, and
-opportunities.
+Each force is described by a name, area, goal, resources, plots, opportunities,
+and moves.
 
 * Name is what you call it.
 * Area describes the physical domains in which the force has influence. Define
@@ -139,6 +139,9 @@ opportunities.
   related to that. You can add new plots at any time.
 * Opportunities are open weakneses or offered deals that the players can take
   advantage of, defend, or accept. Add them as appropriate during play.
+* Moves are GM moves representing common actions the force takes. Start with
+  any that come to mind and add more between sessions to reflect how the force
+  operates.
 
 Forces stay on your tracking sheet until they either lose their purpose (no
 longer having a goal), are soundly defeated, or lose relevancy to the current
