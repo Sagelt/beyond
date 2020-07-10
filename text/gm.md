@@ -65,8 +65,8 @@ change moment to moment as a spell invigorates or a weapon is lost. HP, armor,
 and damage are derived from the die size:
 
 * The NPCs damage is their die
-* The NPCs maximum HP is equal to the size of the die
-* The NPCs armor is equal to the number of sides on the die divided by 4
+* The NPCs maximum HP is equal to their die size
+* The NPCs armor is equal to their die size, divided by 4
   (rounded down)
 
 If an NPC's die size changes their HP changes with it. If they were at maximum
