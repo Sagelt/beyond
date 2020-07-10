@@ -218,8 +218,8 @@ effect is temporarily suspended and you gain a reserve die up to your maximum.
 
 **Abilities**
 
-* [ ][ ][ ][ ][ ] Amplifier: The reserve dice you gain through Omega are d8
-  instead of d6.
+* [ ][ ][ ][ ][ ] Amplifier: The reserve dice you gain through Magic Eater are
+  d8 instead of d6.
 
 ## Bonds
 

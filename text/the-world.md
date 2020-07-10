@@ -52,11 +52,11 @@ power and souls.
 ### Gods & Angels
 
 The gods of _Beyond_ are both present and obscure. Those favored by the gods
-receive and miracles are not unheard of. But at the same time the gods seem
-capricious and uncaring, pursuing their own agendas which only occasionally
-overlap with those of the mortals that worship them. Even gods whose domains
-are ostensibly concerned with mortal life seem to care about those mortal lives
-more as an object to be manipulated than as people.
+receive their blessings, and miracles are not unheard of. But at the same time
+the gods seem capricious and uncaring, pursuing their own agendas which only 
+occasionally overlap with those of the mortals that worship them. Even gods
+whose domains are ostensibly concerned with mortal life seem to care about 
+those mortal lives more as an object to be manipulated than as people.
 
 The angels that serve the gods are fearful creatures of light, eyes, and
 feathers. They come in numberless forms but all are strange and hallucinatory
@@ -83,7 +83,7 @@ souls who must live there, though occasionally a Fey clique will make a
 peregrination through the material plane to observe it's pitiable state for
 themselves.
 
-#### Courtly Intrigues
+#### Meddlesome Interlopers
 
 * In an effort to illustrate to mortals their poor state a fey sorcerer begins
   spreading lycanthropy. "See, it's not really so different, is it? You are

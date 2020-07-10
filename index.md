@@ -630,6 +630,45 @@ Forces are used when planning adventure locations and reviewing the GM
 log to create more adventures for the player characters and keep the
 world in motion.
 
+## Adventure Locations
+
+**Adventure locations** are dynamic places in the world that have
+problems for the player characters to become entangled in.
+
+Adventures in *Beyond* are focused on locations. Any type of location
+can be an adenture location, no matter the type of terrain or size, so
+long as it is:
+
+-   Dynamic. The location will eventually be different than it is and
+    perhaps resolve into not being an adventure.
+-   Dangerous. The fate of the place and those within it is ungiven and
+    may be harmful. Perhaps not physically harmful, but damaging in some
+    way.
+-   Contained. There are limits, however broad, to the adventure
+    location.
+
+The first session of each game begins at an adventure location. After
+that adventure location is resolved the players will choose from other
+adventure locations presented by the GM.
+
+An adventure location is made up of:
+
+-   A dark fate. The dark fate describes what will become of the
+    adventure location if the players do not intervene directly or
+    indirectly.
+-   Forces. These are the forces from your tracking sheet that are at
+    play in this location. Each force present lists resources, goals,
+    plots, and opportunities specific to this location, as applicable.
+-   Denizens. These are notable NPCs within the location who are not
+    part of the forces present.
+-   Locations. These are the important places within the location. They
+    may be specified on a map or more generally located.
+
+When the player characters are in an adventure location your job as the
+GM is to portray it honestly to them as a living environment. If they
+take action, show them the outcomes. If they do not take action, show
+them the consequences.
+
 ## The GM Log
 
 During each session you'll keep a GM log. The goals of your GM log are
@@ -2196,7 +2235,7 @@ to your maximum.
 **Abilities**
 
 -   \[ \]\[ \]\[ \]\[ \]\[ \] Amplifier: The reserve dice you gain
-    through Omega are d8 instead of d6.
+    through Magic Eater are d8 instead of d6.
 
 ## Bonds
 
@@ -2430,7 +2469,7 @@ the GM will name a cost for each that is true:
 
 -   The request is not in your patron's interest
 -   The request is hard to accomplish with their powers
--   Your patron is happy with you
+-   Your patron is unhappy with you
 
 Potential costs include:
 
