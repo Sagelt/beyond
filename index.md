@@ -571,6 +571,62 @@ Non-player characters include any living thing that is not a player
 character. Beasts, humanoids, and stranger creatures all use these
 rules.
 
+## Forces
+
+**Forces** are the entities and groups that act on the world around the
+player characters. They can be large scale, like a kingdom or religious
+order, or local, like a sheriff or communal farm. Forces act on the
+world to create problems and opportunities for the player characters.
+
+There is no set list of forces. It is up to the GM to identify forces as
+they come up and add them to their tracking sheet. A good force:
+
+-   Has resources at its disposal
+-   Has goals it is pursuing
+-   Has some form of membership or allegiance for those that aid it
+
+Political organizations, trade guilds, military organizations, religious
+organizations, and community organizations tend to be good forces. At
+times certain powerful individuals, like an ancient dragon plotting
+beneath a mountain, can be forces of their own.
+
+The player characters may suggest forces for the GM to add through their
+allegiances, bonds, or other aspects of their character. The initial
+goal provided by the GM may also suggest forces at play.
+
+Each force is described by a name, area, goal, resources, plots, and
+opportunities.
+
+-   Name is what you call it.
+-   Area describes the physical domains in which the force has
+    influence. Define the area when creating the force, you can change
+    it later as needed.
+-   Goal is what the force is pursuing. Much like player goals they can
+    range in scope and duration, but they should always be a concrete
+    outcome. Write one to start with. If that goal is achieved or
+    abandoned replace it with a new one or discard the force.
+-   Resources are the people, objects, connections, and information the
+    force has at its disposal. List 2-3 to start with, then add and
+    remove them during play to reflect actions that the players
+    undertake or as the result of GM moves.
+-   Plots are the activities the force is currently pursuing to further
+    its goal. They do not have to be complicated or clandestine, they
+    can be as simple and direct as rebuilding a barn or attacking a
+    stronghold. If the force is added as part of a goal or adventure
+    location make sure it has at least one plot related to that. You can
+    add new plots at any time.
+-   Opportunities are open weakneses or offered deals that the players
+    can take advantage of, defend, or accept. Add them as appropriate
+    during play.
+
+Forces stay on your tracking sheet until they either lose their purpose
+(no longer having a goal), are soundly defeated, or lose relevancy to
+the current action of the game.
+
+Forces are used when planning adventure locations and reviewing the GM
+log to create more adventures for the player characters and keep the
+world in motion.
+
 ## The GM Log
 
 During each session you'll keep a GM log. The goals of your GM log are
@@ -590,8 +646,26 @@ There are three types of entries, each indicated by it's own symbol:
     happened.
 -   Notes, indicated with a dash -, are ideas or observations that come
     up during the game.
--   Opportunities, indicated with a forward point \>, are unresolved
-    threads that may lead to new goals, adversaries, and threats.
+-   Futures, indicated with a forward point \>, are unresolved threads
+    that may lead to new goals, adversaries, and threats.
+
+During each session take notes as they happen. Don't worry about
+capturing everything or writing in a way that will make sense to anyone
+else. These are your notes to help you plan for the future.
+
+Between sessions review your log from the previous session. Look for:
+
+-   Things that benefit forces in play
+    -   Add new resources to those forces to reflect them
+-   Things that might drive a force to action
+    -   Add new plots for those actions
+-   Things that present opportunities to forces or player characters
+    -   For opportunities for the player characters, add them as
+        opportunities on the force they would impact
+    -   For opportunities for forces, add plots to exploit them
+-   Important, useful, or dangerous locations the players might want to
+    explore
+    -   Add these as adventure locations
 
 # The World
 
