@@ -35,7 +35,7 @@ penalty to your roll to cast a spell.
   then erase all advancement from this ability.
 * [ ][ ][ ][ ][ ][ ][ ] Master Caster: +1
 * [ ][ ][ ][ ][ ] Empower Magic: On a 10+ you have the option of choosing from
-  the 7-9 list. If you do, you may maximize the spells effects or double its
+  the 7-9 list. If you do, you may maximize the spell's effects or double its
   targets.
 
 **Conditions**
