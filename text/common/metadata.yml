@@ -4,7 +4,7 @@ header-includes: |
     \pagestyle{fancy}
     \lhead[\leftmark]{\leftmark}
     \chead[]{}
-    \rhead[v0.0.20200709]{v0.0.20200709}
+    \rhead[v0.1.20200710]{v0.1.20200710}
     \usepackage{titlesec}
     \newcommand{\sectionbreak}{\clearpage}
 ---

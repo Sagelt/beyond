@@ -644,7 +644,7 @@ world in motion.
 problems for the player characters to become entangled in.
 
 Adventures in *Beyond* are focused on locations. Any type of location
-can be an adenture location, no matter the type of terrain or size, so
+can be an adventure location, no matter the type of terrain or size, so
 long as it is:
 
 -   Dynamic. The location will eventually be different than it is and
