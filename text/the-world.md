@@ -83,7 +83,7 @@ souls who must live there, though occasionally a Fey clique will make a
 peregrination through the material plane to observe it's pitiable state for
 themselves.
 
-#### Courtly Intrigues
+#### Meddlesome Interlopers
 
 * In an effort to illustrate to mortals their poor state a fey sorcerer begins
   spreading lycanthropy. "See, it's not really so different, is it? You are
